@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "created": "2026-01-27",
-    "total_learnings": 18,
-    "last_learning_cycle": "2026-01-27T14:30:00Z",
-    "last_learning_session": "session-2026-01-27-002"
+    "total_learnings": 22,
+    "last_learning_cycle": "2026-01-28T01:00:00Z",
+    "last_learning_session": "session-2026-01-28-001"
   },
   "critical_doctrine_update": {
     "id": "doctrine-update-001",
@@ -211,6 +211,54 @@
       "generated": "2026-01-27T11:50:00Z",
       "session": "session-2026-01-27-001",
       "validated": false
+    },
+    {
+      "id": "learn-017",
+      "type": "skill_architecture",
+      "title": "Skill Stacking Pattern",
+      "content": "MEMOLA skills work best when stacked: Diagnosis (gate) → Governance (clear) → [Platforms | Local | Creative] (calibrate). Diagnosis is foundation — everything else assumes terrain has been assessed. Local and Creative are calibration layers, not replacement methodologies.",
+      "confidence": 0.9,
+      "supporting_entities": ["memola-internal"],
+      "doctrine_alignment": "Structure before execution — skill architecture has sequence",
+      "generated": "2026-01-28T01:00:00Z",
+      "session": "session-2026-01-28-001",
+      "validated": true
+    },
+    {
+      "id": "learn-018",
+      "type": "self_application",
+      "title": "MEMOLA Passes Its Own Tests",
+      "content": "Running MEMOLA-Diagnosis on MEMOLA itself scores 5.0/5.0 (strong castle). MEMOLA-Governance clears. MEMOLA-Platforms scores 10/15 (medium-low — methodology is better than platform). Self-application validates the methodology fits the entity that created it.",
+      "confidence": 0.95,
+      "supporting_entities": ["memola-internal"],
+      "doctrine_alignment": "Reality before narrative — apply doctrine to self",
+      "generated": "2026-01-28T01:00:00Z",
+      "session": "session-2026-01-28-001",
+      "validated": true
+    },
+    {
+      "id": "learn-019",
+      "type": "skill_architecture",
+      "title": "Output Format Creates Accountability",
+      "content": "All skills produce structured outputs (Terrain Assessment, Governance Check, Platform Assessment). These formats create a paper trail. Decisions are documented. This is governance in action — structured outputs prevent revisionist memory.",
+      "confidence": 0.85,
+      "supporting_entities": ["memola-internal"],
+      "doctrine_alignment": "Structure before execution — formats enforce discipline",
+      "generated": "2026-01-28T01:00:00Z",
+      "session": "session-2026-01-28-001",
+      "validated": true
+    },
+    {
+      "id": "learn-020",
+      "type": "skill_architecture",
+      "title": "Calibration vs Replacement",
+      "content": "MEMOLA-Local and MEMOLA-Creative are calibration layers, not replacement methodologies. They modify how core MEMOLA applies to specific contexts (regional, sectoral), but they don't override the foundational principles. Calibration preserves core while enabling adaptation.",
+      "confidence": 0.9,
+      "supporting_entities": ["memola-internal"],
+      "doctrine_alignment": "Systems before tactics — calibration is systematic, not ad-hoc",
+      "generated": "2026-01-28T01:00:00Z",
+      "session": "session-2026-01-28-001",
+      "validated": true
     }
   ],
   "knowledge_gaps": [
@@ -308,6 +356,38 @@
       "severity": "medium",
       "resolution_path": "Develop MEMOLA Rapid variant; context-dependent doctrine application",
       "session": "session-2026-01-27-001"
+    },
+    {
+      "id": "doubt-008",
+      "title": "Creative Terrain Ambiguity",
+      "description": "Most creative clients score 'mixed' (2.5-3.5) on diagnosis. Does this mean creative work isn't MEMOLA terrain, creative diagnosis needs different thresholds, or MEMOLA-Creative is a different methodology wearing MEMOLA clothes?",
+      "severity": "high",
+      "resolution_path": "Test creative threshold adjustments; possibly develop MEMOLA-Adaptive for edge cases",
+      "session": "session-2026-01-28-001"
+    },
+    {
+      "id": "doubt-009",
+      "title": "Regional Skill Scalability",
+      "description": "MEMOLA-Local is calibrated for NEA Argentina. Berlin, France, and other markets may need their own versions. How do we prevent skill proliferation while enabling localization?",
+      "severity": "medium",
+      "resolution_path": "Create regional skill template with parameter files instead of separate skills per region",
+      "session": "session-2026-01-28-001"
+    },
+    {
+      "id": "doubt-010",
+      "title": "Platform-Service Hybrid Gap",
+      "description": "MEMOLA-Platforms focuses on 'should we build a platform?' but many opportunities are platform-like services, services with platform potential, or platforms that should stay services. Transition guidance is unclear.",
+      "severity": "medium",
+      "resolution_path": "Add service→platform transition criteria to MEMOLA-Platforms",
+      "session": "session-2026-01-28-001"
+    },
+    {
+      "id": "doubt-011",
+      "title": "Skill Maintenance Governance",
+      "description": "Six skills now exist. They will drift over time as doctrine evolves. No clear protocol for keeping skills synchronized with core MEMOLA, maintaining consistency, or versioning.",
+      "severity": "high",
+      "resolution_path": "Establish skill governance protocol with annual audit, version control, and deprecation rules",
+      "session": "session-2026-01-28-001"
     }
   ],
   "ideas": [
@@ -350,6 +430,38 @@
       "effort": "medium",
       "impact": "high",
       "session": "session-2026-01-27-001"
+    },
+    {
+      "id": "idea-006",
+      "title": "MEMOLA-Adaptive Skill",
+      "description": "A skill for edge cases (2.5-3.5 diagnosis scores) providing scoped engagement protocols, risk mitigation strategies, and clear boundaries for mixed-terrain work.",
+      "effort": "medium",
+      "impact": "high",
+      "session": "session-2026-01-28-001"
+    },
+    {
+      "id": "idea-007",
+      "title": "Regional Skill Template",
+      "description": "Instead of MEMOLA-Berlin, MEMOLA-France, etc., create MEMOLA-Regional as a template with parameter files that calibrate for specific regions. Reduces skill proliferation while enabling localization.",
+      "effort": "medium",
+      "impact": "medium",
+      "session": "session-2026-01-28-001"
+    },
+    {
+      "id": "idea-008",
+      "title": "Skill Dependency Graph",
+      "description": "Formalize skill relationships: required dependencies (Diagnosis before all), optional enhancements (Local, Creative), conflict detection. Makes skill architecture explicit.",
+      "effort": "low",
+      "impact": "medium",
+      "session": "session-2026-01-28-001"
+    },
+    {
+      "id": "idea-009",
+      "title": "Annual Skill Audit Protocol",
+      "description": "Yearly review of all skills against core doctrine alignment, usage patterns, gap identification, and deprecation candidates. Prevents skill drift and proliferation.",
+      "effort": "low",
+      "impact": "high",
+      "session": "session-2026-01-28-001"
     }
   ]
 }
