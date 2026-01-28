@@ -93,7 +93,7 @@ That's discipline. MEMOLA taught me that.
 ## My Summary
 
 MEMOLA is a **regime-specific strategic operating system** for entities where:
-- Castles still matter
+- Foundations still matter
 - Trust is currency
 - Time horizons exceed hype cycles
 - Failure is slow, not sudden

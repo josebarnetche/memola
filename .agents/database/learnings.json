@@ -10,7 +10,7 @@
     "id": "doctrine-update-001",
     "timestamp": "2026-01-27T14:30:00Z",
     "title": "MEMOLA Regime Clarification",
-    "content": "MEMOLA is not universal. It is regime-specific. MEMOLA is optimized for environments where: (1) Legacy weight exists, (2) Reputation matters, (3) Failure is asymmetric, (4) Time horizons exceed hype cycles. MEMOLA selects entities whose failure mode is slow decay, not sudden death. MEMOLA is not building castles — it is choosing terrain where castles still matter.",
+    "content": "MEMOLA is not universal. It is regime-specific. MEMOLA is optimized for environments where: (1) Legacy weight exists, (2) Reputation matters, (3) Failure is asymmetric, (4) Time horizons exceed hype cycles. MEMOLA selects entities whose failure mode is weathering, not rupture. MEMOLA is not building foundations — it is choosing terrain where foundations still matter.",
     "five_diagnostic_questions": [
       "Can this entity survive long enough for structure to matter?",
       "Does failure here look like erosion, not explosion?",
@@ -228,7 +228,7 @@
       "id": "learn-018",
       "type": "self_application",
       "title": "MEMOLA Passes Its Own Tests",
-      "content": "Running MEMOLA-Diagnosis on MEMOLA itself scores 5.0/5.0 (strong castle). MEMOLA-Governance clears. MEMOLA-Platforms scores 10/15 (medium-low — methodology is better than platform). Self-application validates the methodology fits the entity that created it.",
+      "content": "Running MEMOLA-Diagnosis on MEMOLA itself scores 5.0/5.0 (strong foundation). MEMOLA-Governance clears. MEMOLA-Platforms scores 10/15 (medium-low — methodology is better than platform). Self-application validates the methodology fits the entity that created it.",
       "confidence": 0.95,
       "supporting_entities": ["memola-internal"],
       "doctrine_alignment": "Reality before narrative — apply doctrine to self",

@@ -17,10 +17,10 @@ But more importantly: MEMOLA is a **terrain detector**. Before applying any stra
 MEMOLA is not universal. It is **regime-specific**. It works in environments where:
 - Trust compounds over time
 - Legitimacy matters more than speed
-- Failure looks like slow erosion, not sudden explosion
+- Failure looks like weathering, not sudden explosion
 - Long-term value creation is possible
 
-If you're building a castle, MEMOLA can help. If you're racing to set up camp before competitors, MEMOLA is the wrong tool.
+If you're building a foundation, MEMOLA can help. If you're racing to set up sprint before competitors, MEMOLA is the wrong tool.
 
 ---
 
@@ -28,7 +28,7 @@ If you're building a castle, MEMOLA can help. If you're racing to set up camp be
 
 MEMOLA was born in **Mercedes, Corrientes, Argentina** — a small city in the NEA (Northeast Argentina) region. It was developed by [MEMOLA Medios S.A.S.](https://memola.com.ar), a digital strategy agency founded by Jose Barnetche.
 
-The methodology emerged from real client work: rural institutions with 100+ year histories, artisanal producers going digital, cultural events becoming platforms. These weren't Silicon Valley startups. They were castles — entities where patience, structure, and trust actually matter.
+The methodology emerged from real client work: rural institutions with 100+ year histories, artisanal producers going digital, cultural events becoming platforms. These weren't Silicon Valley startups. They were foundations — entities where patience, structure, and trust actually matter.
 
 Provincial origin is a feature, not a limitation. From the periphery, you see what centralized thinking misses.
 
@@ -40,7 +40,7 @@ MEMOLA operates on five foundational principles, in strict sequence:
 
 1. **Reality before narrative** — Understand before you position
 2. **Structure before execution** — Design before you build
-3. **Systems before tactics** — Architecture before campaigns
+3. **Systems before tactics** — Architecture before sprintaigns
 4. **Assets before activity** — Create value containers before filling them
 5. **Compounding before scale** — Depth before breadth
 
@@ -143,7 +143,7 @@ When evaluating a potential client or project:
 User: Run terrain assessment for [Client Name]
 
 MEMOLA will ask the five diagnostic questions and classify the terrain as:
-- Castle (proceed with MEMOLA)
+- Foundation (proceed with MEMOLA)
 - Camp (MEMOLA is wrong tool)
 - Mixed (proceed with caution)
 ```
@@ -235,11 +235,11 @@ The agent learns from its own application. Every engagement contributes to the p
 
 ## Key Concepts
 
-### Castle vs Camp Terrain
+### Foundation vs Sprint Terrain
 
-| Castle Terrain | Camp Terrain |
+| Foundation Terrain | Sprint Terrain |
 |----------------|--------------|
-| Slow erosion failure | Sudden death failure |
+| Weathering failure | Rupture failure |
 | Trust compounds | Speed determines survival |
 | Legitimacy > speed | First-mover wins |
 | Reputation outlasts hype | Network effects are the only moat |
@@ -297,7 +297,7 @@ From the edge, you see what centralized thinking misses. Mercedes → Berlin →
 
 ### Trust Is Infrastructure
 
-MEMOLA builds trust-generation machines. Not campaigns. Not content. Systems that produce trust over time.
+MEMOLA builds trust-generation machines. Not sprintaigns. Not content. Systems that produce trust over time.
 
 ---
 

@@ -40,20 +40,20 @@ You learn patience. You understand that survival is local before it is global.
 
 MEMOLA is not universal. It is **regime-specific**.
 
-We work in **castle terrain** — environments where:
-- Failure looks like erosion, not explosion
+We work in **foundation terrain** — environments where:
+- Failure looks like weathering, not rupture
 - Trust compounds over time
 - Legitimacy matters more than speed
 - Reputation outlasts hype cycles
 
-We do not work in **camp terrain** — environments where:
+We do not work in **sprint terrain** — environments where:
 - Speed determines survival
 - First-mover wins everything
 - Network effects are the only moat
 - Pivoting is the primary skill
 
-**If you are building a castle, we can help.**
-**If you are racing to camp, we are the wrong partner.**
+**If you are building a foundation, we can help.**
+**If you are racing to sprint, we are the wrong partner.**
 
 ---
 
@@ -100,7 +100,7 @@ We would rather be precise than visible.
 Before any engagement, we ask:
 
 1. **Can this survive long enough for structure to matter?**
-2. **Does failure here look like erosion, not explosion?**
+2. **Does failure here look like weathering, not rupture?**
 3. **Is legitimacy more valuable than speed?**
 4. **Will clarity actually change outcomes?**
 5. **Does this work without going viral?**

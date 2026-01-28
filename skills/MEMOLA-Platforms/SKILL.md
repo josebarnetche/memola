@@ -111,14 +111,14 @@ Score: 0 (vague user) to 3 (precisely defined)
 
 ### Criterion 5: MEMOLA Fit
 
-> **Is this castle terrain for a platform?**
+> **Is this foundation terrain for a platform?**
 
 Required evidence:
 - Platform serves slow-decay sectors
 - Trust/legitimacy matter in the space
 - Platform can compound value over time
 
-Score: 0 (camp terrain) to 3 (strong castle)
+Score: 0 (camp terrain) to 3 (strong foundation)
 
 ---
 
@@ -356,7 +356,7 @@ Choose role based on:
 This skill supports **Workflow 3: Platform Assessment** in MEMOLA v2.0.0.
 
 Prerequisites:
-- MEMOLA-Diagnosis passed (castle terrain confirmed)
+- MEMOLA-Diagnosis passed (foundation terrain confirmed)
 - Strategic Diagnosis completed (problem understood)
 
 Outputs feed into:

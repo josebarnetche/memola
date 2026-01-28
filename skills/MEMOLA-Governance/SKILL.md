@@ -226,7 +226,7 @@ Document acceptances in writing.
 - Harm to third parties identified
 
 **Strategic exits** (we leave because of fit):
-- Terrain shifts from castle to camp
+- Terrain shifts from foundation to camp
 - Better opportunities require focus
 - Relationship no longer serves either party
 

@@ -137,8 +137,8 @@
       "key_insights": [
         "MEMOLA is regime-specific, not universal",
         "Self-selection is a feature, not a bug",
-        "Slow decay vs sudden death is the key filter",
-        "Castle terrain vs camp terrain determines applicability",
+        "Weathering vs rupture is the key filter",
+        "Foundation terrain vs sprint terrain determines applicability",
         "Five diagnostic questions are the new entry gate"
       ],
       "doctrine_corrections": [
@@ -481,7 +481,7 @@
       "timestamp": "2026-01-27T14:02:00Z",
       "action": "doctrine_input",
       "agent": "learning",
-      "details": "Received external regime definition: slow decay vs sudden death filter"
+      "details": "Received external regime definition: weathering vs rupture filter"
     },
     {
       "timestamp": "2026-01-27T14:04:00Z",
@@ -523,7 +523,7 @@
       "timestamp": "2026-01-27T14:22:00Z",
       "action": "terrain_metaphor",
       "agent": "learning",
-      "details": "Developed castle vs camp terrain classification framework"
+      "details": "Developed foundation vs sprint terrain classification framework"
     },
     {
       "timestamp": "2026-01-27T14:24:00Z",

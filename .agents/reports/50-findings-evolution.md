@@ -69,11 +69,11 @@ Each finding shows:
 
 ## TERRAIN CLASSIFICATION
 
-### 6. Castle vs Camp
+### 6. Foundation vs Sprint
 
 **First Thought**: All businesses need structure. MEMOLA helps build structure.
 
-**Now Thinks**: Two terrains exist — **castle** (slow erosion, trust compounds) and **camp** (sudden death, speed wins). MEMOLA is castle doctrine. Camp terrain needs different tools.
+**Now Thinks**: Two terrains exist — **foundation** (weathering, trust compounds) and **sprint** (rupture, speed wins). MEMOLA is foundation doctrine. Sprint terrain needs different tools.
 
 **Shift**: New understanding
 
@@ -103,7 +103,7 @@ Each finding shows:
 
 **First Thought**: Both matter. Balance them.
 
-**Now Thinks**: In castle terrain, legitimacy > speed. In camp terrain, speed > legitimacy. You cannot serve both. Choose your terrain.
+**Now Thinks**: In foundation terrain, legitimacy > speed. In sprint terrain, speed > legitimacy. You cannot serve both. Choose your terrain.
 
 **Shift**: Refinement
 
@@ -155,7 +155,7 @@ Each finding shows:
 
 **First Thought**: Think strategically, not tactically.
 
-**Now Thinks**: Build systems that produce outcomes repeatedly. Tactics are one-time. Systems compound. A campaign is a tactic. A brand is a system.
+**Now Thinks**: Build systems that produce outcomes repeatedly. Tactics are one-time. Systems compound. A sprintaign is a tactic. A brand is a system.
 
 **Shift**: Clarification
 
@@ -333,7 +333,7 @@ Each finding shows:
 
 **First Thought**: Creative work is different and needs different rules.
 
-**Now Thinks**: Creative work exists on a castle-camp spectrum like everything else. Long-term career building = castle. Trend-chasing = camp. MEMOLA-Creative applies to castle creatives.
+**Now Thinks**: Creative work exists on a foundation-sprint spectrum like everything else. Long-term career building = foundation. Trend-chasing = sprint. MEMOLA-Creative applies to foundation creatives.
 
 **Shift**: Integration
 
@@ -467,7 +467,7 @@ Each finding shows:
 
 **First Thought**: Trust is important in business relationships.
 
-**Now Thinks**: MEMOLA builds **trust-generation machines**. Not campaigns. Not content. Systems that produce trust over time. Trust is infrastructure, not outcome.
+**Now Thinks**: MEMOLA builds **trust-generation machines**. Not sprintaigns. Not content. Systems that produce trust over time. Trust is infrastructure, not outcome.
 
 **Shift**: Conceptual elevation
 
@@ -555,7 +555,7 @@ Each finding shows:
 
 **From**: "MEMOLA helps any business build better strategy."
 
-**To**: "MEMOLA is a terrain detector that only operates where castles still matter. It knows what it's for, knows what it's not for, and the refusal to be universal is its integrity."
+**To**: "MEMOLA is a terrain detector that only operates where foundations still matter. It knows what it's for, knows what it's not for, and the refusal to be universal is its integrity."
 
 ---
 

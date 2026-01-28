@@ -11,7 +11,7 @@ triggers:
   - "terrain assessment"
   - "regime fit"
   - "diagnostic questions"
-  - "castle or camp"
+  - "foundation or sprint"
   - "should we take this client"
   - "is this MEMOLA terrain"
   - "fit analysis"
@@ -43,10 +43,10 @@ Before any engagement, before any strategy, before any execution — run this di
 
 ## 2. The Two Terrains
 
-### Castle Terrain (MEMOLA Applies)
+### Foundation Terrain (MEMOLA Applies)
 
 Characteristics:
-- Failure mode: slow erosion over years
+- Failure mode: weathering over years
 - Trust compounds and transfers
 - Legitimacy > speed
 - Reputation outlasts hype cycles
@@ -59,10 +59,10 @@ Examples:
 - Regional anchors (rural cooperatives, local media)
 - Cultural organizations (museums, foundations)
 
-### Camp Terrain (MEMOLA Does NOT Apply)
+### Sprint Terrain (MEMOLA Does NOT Apply)
 
 Characteristics:
-- Failure mode: sudden death
+- Failure mode: rupture
 - Speed determines survival
 - First-mover advantage dominates
 - Network effects are the only moat
@@ -162,11 +162,11 @@ Sum all five questions (max 5 points).
 
 | Score | Classification | Recommendation |
 |-------|---------------|----------------|
-| 4.5 - 5.0 | Strong Castle | Proceed with full MEMOLA |
-| 3.5 - 4.0 | Castle-Leaning | Proceed with attention |
+| 4.5 - 5.0 | Strong Foundation | Proceed with full MEMOLA |
+| 3.5 - 4.0 | Foundation-Leaning | Proceed with attention |
 | 2.5 - 3.0 | Mixed Terrain | Caution — scope carefully |
-| 1.5 - 2.0 | Camp-Leaning | Likely decline |
-| 0.0 - 1.0 | Strong Camp | Decline — wrong terrain |
+| 1.5 - 2.0 | Sprint-Leaning | Likely decline |
+| 0.0 - 1.0 | Strong Sprint | Decline — wrong terrain |
 
 ### Override Conditions
 
@@ -197,7 +197,7 @@ Document reasoning for each score.
 ### Step 3: Calculate and Classify
 
 Sum scores. Apply thresholds.
-Classify as Castle, Mixed, or Camp.
+Classify as Foundation, Mixed, or Sprint.
 
 ### Step 4: Identify Red Flags
 
@@ -219,7 +219,7 @@ Scores:
 5. Virality Independence: [X/1] — [reasoning]
 
 Total: [X/5]
-Classification: [Castle/Mixed/Camp]
+Classification: [Foundation/Mixed/Sprint]
 
 Red Flags: [List or "None identified"]
 
@@ -234,33 +234,33 @@ Reasoning: [1-2 sentences]
 When full assessment isn't possible, ask:
 
 1. **How old is this entity?** (<3 years = camp signal)
-2. **What happens if they do nothing for 6 months?** (Death = camp, decline = castle)
+2. **What happens if they do nothing for 6 months?** (Rupture = sprint, decline = foundation)
 3. **Who decides?** (Committee = caution, clear authority = proceed)
 
-If all three pass → likely castle terrain.
+If all three pass → likely foundation terrain.
 If any fail → run full diagnostic.
 
 ---
 
 ## 7. Common Patterns
 
-### Pattern: The Disguised Camp
+### Pattern: The Disguised Sprint
 
-Looks like castle (old institution) but operates like camp (desperate for quick results, no patience for structure).
+Looks like foundation (old institution) but operates like sprint (desperate for quick results, no patience for structure).
 
 *Diagnostic tell*: Question 3 scores low despite institutional age.
 
-### Pattern: The Premature Castle
+### Pattern: The Premature Foundation
 
-Young entity trying to build castle in camp terrain. Good intentions, wrong environment.
+Young entity trying to build foundation in sprint terrain. Good intentions, wrong environment.
 
 *Diagnostic tell*: High scores on Q3-Q5 but Q1 scores low.
 
-### Pattern: The Eroding Castle
+### Pattern: The Eroding Foundation
 
-Once-strong castle terrain now shifting to camp (industry disruption, regulatory change).
+Once-strong foundation terrain now shifting to camp (industry disruption, regulatory change).
 
-*Diagnostic tell*: Historical castle indicators but current scores declining.
+*Diagnostic tell*: Historical foundation indicators but current scores declining.
 
 ---
 

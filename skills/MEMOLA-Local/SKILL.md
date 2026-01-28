@@ -81,13 +81,13 @@ Provincial origin is a feature. This skill codifies that advantage.
 
 ---
 
-## 3. Why NEA Is Castle Terrain
+## 3. Why NEA Is Foundation Terrain
 
-NEA is archetypal castle terrain:
+NEA is archetypal foundation terrain:
 
 | MEMOLA Criterion | NEA Reality |
 |------------------|-------------|
-| Slow erosion failure | Businesses decline over generations, not quarters |
+| Weathering failure | Businesses decline over generations, not quarters |
 | Trust compounds | Third-generation relationships matter |
 | Legitimacy > speed | Being known > being first |
 | Reputation outlasts | Family names carry weight for decades |
@@ -386,7 +386,7 @@ NEA pricing cannot match Buenos Aires rates:
 
 **MEMOLA positioning**:
 - Regional presence + strategic sophistication
-- Castle methodology for castle terrain
+- Foundation methodology for foundation terrain
 - Long-term partnership orientation
 - Fair regional pricing
 
@@ -429,7 +429,7 @@ From the NEA edge, MEMOLA sees:
 - What Buenos Aires agencies miss
 - The value of patience and presence
 - How trust actually builds
-- Where castles still stand
+- Where foundations still stand
 
 This isn't limitation. This is competitive advantage in the right terrain.
 

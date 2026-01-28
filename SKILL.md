@@ -16,7 +16,7 @@ triggers:
   - "platform architecture"
   - "terrain assessment"
   - "regime fit analysis"
-  - "castle vs camp"
+  - "foundation vs sprint"
 tags:
   - strategy
   - branding
@@ -87,15 +87,15 @@ It is incorrect to invoke MEMOLA for:
 
 ### Terrain Classification
 
-**Castle Terrain** (MEMOLA applies):
-- Failure mode: slow erosion over time
+**Foundation Terrain** (MEMOLA applies):
+- Failure mode: weathering over time
 - Trust compounds and matters
 - Legitimacy > speed
 - Reputation outlasts hype
 - Institutions, heritage brands, professional services
 
-**Camp Terrain** (MEMOLA does NOT apply):
-- Failure mode: sudden death
+**Sprint Terrain** (MEMOLA does NOT apply):
+- Failure mode: rupture
 - Speed determines survival
 - First-mover advantage is everything
 - Network effects are the only moat
@@ -109,8 +109,8 @@ Before any engagement, answer these:
    - If lifespan < 3 years, MEMOLA may be premature
 
 2. **Does failure here look like erosion, not explosion?**
-   - Slow decay = MEMOLA terrain
-   - Sudden collapse = not MEMOLA terrain
+   - Weathering = MEMOLA terrain
+   - Rupture = not MEMOLA terrain
 
 3. **Is legitimacy more valuable than speed?**
    - If being first matters more than being trusted, exit
@@ -126,11 +126,11 @@ Before any engagement, answer these:
 ### Why This Matters
 
 MEMOLA optimizes for:
-- **Slow decay prevention**, not sudden death avoidance
+- **Weathering prevention**, not rupture avoidance
 - **Trust infrastructure**, not growth hacking
 - **Compounding value**, not exponential scale
 
-Applying MEMOLA to camp terrain produces:
+Applying MEMOLA to sprint terrain produces:
 - Slow recommendations for fast environments
 - Structure that becomes burden
 - Strategy that is ignored under survival pressure
@@ -289,7 +289,7 @@ Cases are patterns, not trophies.
 ### Workflow 0: Terrain Assessment (REQUIRED FIRST)
 
 1. Ask the five diagnostic questions
-2. Classify terrain: castle or camp
+2. Classify terrain: foundation or sprint
 3. Calculate regime fit score
 4. If score < 4: recommend decline or adaptation
 5. Output: Terrain assessment with proceed/decline recommendation

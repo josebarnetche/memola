@@ -79,18 +79,18 @@ Creative work requires structure without killing the creative. This skill provid
 
 ## 3. Creative Terrain Assessment
 
-### Is Creative Work Castle or Camp?
+### Is Creative Work Foundation or Sprint?
 
 **It depends on the creative's positioning.**
 
-**Castle Creative** (MEMOLA applies):
+**Foundation Creative** (MEMOLA applies):
 - Long-term career building
 - Catalog/body of work accumulation
 - Reputation-based value
 - Niche audience depth over mass reach
 - Sustainability over virality
 
-**Camp Creative** (MEMOLA may not apply):
+**Sprint Creative** (MEMOLA may not apply):
 - Trend-chasing
 - Viral-dependent
 - Single-hit focused
@@ -107,7 +107,7 @@ Adapt the five questions:
 4. **Clarity value**: Strategy improves work, or just do and see what happens?
 5. **Virality need**: Success possible without going viral?
 
-Most serious independent creatives score castle. Hobbyists and trend-chasers score camp.
+Most serious independent creatives score foundation. Hobbyists and trend-chasers score sprint.
 
 ---
 
@@ -284,7 +284,7 @@ MEMOLA-Creative helps find sustainable pricing.
 
 ### Model 1: Project-Based
 
-Best for: Defined deliverables (campaign, release, event)
+Best for: Defined deliverables (sprintaign, release, event)
 
 Structure:
 - Scope definition
@@ -383,7 +383,7 @@ MEMOLA in Berlin is:
 - Team/collaboration model
 
 **Phase 3: Execution**
-- Release campaign delivery
+- Release sprintaign delivery
 - Content creation
 - Community building
 - Performance optimization

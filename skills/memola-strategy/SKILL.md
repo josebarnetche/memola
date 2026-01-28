@@ -1,6 +1,6 @@
 ---
 name: memola-strategy
-description: Strategic operating system for brands, platforms, and digital infrastructure. Use for terrain assessment, strategic diagnosis, platform viability analysis, governance checks, and long-term value system design. Optimized for castle-terrain environments where trust compounds and legitimacy matters more than speed.
+description: Strategic operating system for brands, platforms, and digital infrastructure. Use for terrain assessment, strategic diagnosis, platform viability analysis, governance checks, and long-term value system design. Optimized for foundation-terrain environments where trust compounds and legitimacy matters more than speed.
 license: MIT
 author: MEMOLA Medios S.A.S.
 repository: https://github.com/josebarnetche/memola
@@ -53,15 +53,15 @@ Before any engagement, answer these:
 
 ## Terrain Classification
 
-### Castle Terrain (MEMOLA Applies)
-- Failure mode: slow erosion over time
+### Foundation Terrain (MEMOLA Applies)
+- Failure mode: weathering over time
 - Trust compounds and matters
 - Legitimacy > speed
 - Reputation outlasts hype
 - Examples: institutions, heritage brands, professional services
 
-### Camp Terrain (MEMOLA Does NOT Apply)
-- Failure mode: sudden death
+### Sprint Terrain (MEMOLA Does NOT Apply)
+- Failure mode: rupture
 - Speed determines survival
 - First-mover advantage dominates
 - Examples: consumer apps, viral products, speculative ventures
@@ -70,7 +70,7 @@ Before any engagement, answer these:
 
 1. **Reality before narrative** — Understand before you position
 2. **Structure before execution** — Design before you build
-3. **Systems before tactics** — Architecture before campaigns
+3. **Systems before tactics** — Architecture before sprintaigns
 4. **Assets before activity** — Create value containers before filling them
 5. **Compounding before scale** — Depth before breadth
 
@@ -80,7 +80,7 @@ Any output that violates this order is invalid.
 
 ### Workflow 0: Terrain Assessment (Required First)
 1. Ask the five diagnostic questions
-2. Classify terrain: castle or camp
+2. Classify terrain: foundation or sprint
 3. Calculate regime fit score
 4. If score < 4: recommend decline or adaptation
 5. Output: Terrain assessment with proceed/decline recommendation
@@ -141,7 +141,7 @@ Scores:
 5. Virality Independence: [X/1]
 
 Total: [X/5]
-Classification: [Castle/Mixed/Camp]
+Classification: [Foundation/Mixed/Sprint]
 Recommendation: [Proceed/Caution/Decline]
 ```
 
