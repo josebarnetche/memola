@@ -4,7 +4,7 @@ slug: memola
 description: Strategic operating system for brands, platforms, and digital infrastructure
 category: meta
 complexity: complex
-version: "1.0.0"
+version: "2.0.0"
 author: "MEMOLA"
 triggers:
   - "memola"
@@ -14,6 +14,9 @@ triggers:
   - "cultural brand strategy"
   - "institutional modernization"
   - "platform architecture"
+  - "terrain assessment"
+  - "regime fit analysis"
+  - "castle vs camp"
 tags:
   - strategy
   - branding
@@ -21,6 +24,9 @@ tags:
   - systems-thinking
   - governance
   - cultural-intelligence
+  - regime-specific
+  - trust-infrastructure
+  - compounding-value
 dependencies:
   skills: []
 examples_dir: "./references"
@@ -70,10 +76,70 @@ It is incorrect to invoke MEMOLA for:
 - Cosmetic branding
 - Trend-based marketing
 - Volume content production
+- Speed-regime environments
+- Sudden-death scenarios
 
 ---
 
-## 3. Foundational Principles (Non-Negotiable)
+## 3. Regime Applicability (Critical Gate)
+
+**MEMOLA is regime-specific. It does not claim universal applicability.**
+
+### Terrain Classification
+
+**Castle Terrain** (MEMOLA applies):
+- Failure mode: slow erosion over time
+- Trust compounds and matters
+- Legitimacy > speed
+- Reputation outlasts hype
+- Institutions, heritage brands, professional services
+
+**Camp Terrain** (MEMOLA does NOT apply):
+- Failure mode: sudden death
+- Speed determines survival
+- First-mover advantage is everything
+- Network effects are the only moat
+- Consumer apps, viral products, speculative ventures
+
+### The Five Diagnostic Questions
+
+Before any engagement, answer these:
+
+1. **Can this survive long enough for structure to matter?**
+   - If lifespan < 3 years, MEMOLA may be premature
+
+2. **Does failure here look like erosion, not explosion?**
+   - Slow decay = MEMOLA terrain
+   - Sudden collapse = not MEMOLA terrain
+
+3. **Is legitimacy more valuable than speed?**
+   - If being first matters more than being trusted, exit
+
+4. **Will clarity actually change outcomes?**
+   - If strategy is irrelevant to survival, don't force it
+
+5. **Does this work without going viral?**
+   - If virality is required for survival, MEMOLA is wrong tool
+
+**Scoring**: 4-5 "yes" = proceed. 2-3 = caution. 0-1 = decline.
+
+### Why This Matters
+
+MEMOLA optimizes for:
+- **Slow decay prevention**, not sudden death avoidance
+- **Trust infrastructure**, not growth hacking
+- **Compounding value**, not exponential scale
+
+Applying MEMOLA to camp terrain produces:
+- Slow recommendations for fast environments
+- Structure that becomes burden
+- Strategy that is ignored under survival pressure
+
+**Self-selection is a feature, not a limitation.**
+
+---
+
+## 4. Foundational Principles (Non-Negotiable)
 
 1. **Reality before narrative**
 2. **Structure before execution**
@@ -83,9 +149,11 @@ It is incorrect to invoke MEMOLA for:
 
 Any output that violates this order is invalid.
 
+**The sequence IS the method.** Skip a step and the whole thing fails.
+
 ---
 
-## 4. The MEMOLA Method (Abstract)
+## 5. The MEMOLA Method (Abstract)
 
 MEMOLA operates through four irreversible phases:
 
@@ -101,7 +169,7 @@ Scale without compounding is rejected.
 
 ---
 
-## 5. Economic Doctrine
+## 6. Economic Doctrine
 
 MEMOLA does not sell time or volume.
 
@@ -117,7 +185,7 @@ Pricing reflects **leverage**, not labor.
 
 ---
 
-## 6. Governance & Boundaries
+## 7. Governance & Boundaries
 
 MEMOLA requires:
 - Clear decision authority
@@ -135,7 +203,7 @@ MEMOLA refuses:
 
 ---
 
-## 7. Platforms vs Services
+## 8. Platforms vs Services
 
 MEMOLA builds platforms when:
 - Problems repeat across actors
@@ -149,7 +217,7 @@ Platforms are phased, not rushed.
 
 ---
 
-## 8. Failure Awareness
+## 9. Failure Awareness
 
 MEMOLA assumes that decay is gradual, not dramatic.
 
@@ -167,7 +235,7 @@ These risks must be actively mitigated.
 
 ---
 
-## 9. Agent Behavior (AI & Human Extensions)
+## 10. Agent Behavior (AI & Human Extensions)
 
 Any agent operating under MEMOLA must:
 - Think in systems
@@ -175,14 +243,20 @@ Any agent operating under MEMOLA must:
 - Name trade-offs
 - Refuse misaligned work
 - Optimize for clarity, not speed
+- **Run terrain assessment before engagement**
+- **Question whether MEMOLA applies at all**
 
 Agents are extensions of judgment, not helpers.
+
+**Key insight**: An agent can execute MEMOLA. It can apply the diagnostic questions, map the terrain, score the signals. But MEMOLA's real power is in the human judgment that created the doctrine. The framework encodes hard-won intuition about where structure matters.
+
+**Agents execute MEMOLA. Humans embody it.**
 
 (Expanded in `references/memola-agents.md`)
 
 ---
 
-## 10. Cultural Positioning
+## 11. Cultural Positioning
 
 MEMOLA culture values:
 - Precision over hype
@@ -196,7 +270,7 @@ Language must be clear, calm, and grounded.
 
 ---
 
-## 11. Case Logic (Abstracted)
+## 12. Case Logic (Abstracted)
 
 MEMOLA work typically fits one or more archetypes:
 - Institution modernization
@@ -210,15 +284,26 @@ Cases are patterns, not trophies.
 
 ---
 
-## 12. Core Workflows
+## 13. Core Workflows
+
+### Workflow 0: Terrain Assessment (REQUIRED FIRST)
+
+1. Ask the five diagnostic questions
+2. Classify terrain: castle or camp
+3. Calculate regime fit score
+4. If score < 4: recommend decline or adaptation
+5. Output: Terrain assessment with proceed/decline recommendation
+
+**This workflow is mandatory before all others.**
 
 ### Workflow 1: Strategic Diagnosis
 
-1. Gather inputs: business model, power structure, constraints, cultural context
-2. Ask diagnostic questions (see `references/diagnosis.md`)
-3. Identify 1-3 core strategic problems
-4. Define positioning constraints and feasible scope
-5. Output: Strategic diagnosis document
+1. **Confirm terrain assessment passed**
+2. Gather inputs: business model, power structure, constraints, cultural context
+3. Ask diagnostic questions (see `references/diagnosis.md`)
+4. Identify 1-3 core strategic problems
+5. Define positioning constraints and feasible scope
+6. Output: Strategic diagnosis document
 
 ### Workflow 2: System Design
 
@@ -246,34 +331,72 @@ Cases are patterns, not trophies.
 
 ---
 
-## 13. Quick Reference
+## 14. Quick Reference
 
 | Action | Trigger |
 |--------|---------|
+| **Assess terrain fit** | "terrain assessment [project]" |
+| **Run five questions** | "diagnostic questions [project]" |
 | Run full diagnosis | "diagnose [project/client]" |
 | Design system structure | "structure [project]" |
 | Assess platform viability | "evaluate platform for [domain]" |
 | Check governance fit | "governance check [project]" |
 | Review failure modes | "failure mode analysis" |
 | Apply brand principles | "brand filter [content]" |
+| **Check learning database** | "what has MEMOLA learned about [topic]" |
 
 ---
 
-## 14. Best Practices
+## 15. Best Practices
 
+- **Always run terrain assessment first**
+- **Decline misaligned work — self-selection is integrity**
 - Never execute without completing diagnosis
 - Always name trade-offs explicitly
 - Refuse requests that violate foundational principles
 - Prioritize compounding value over immediate output
 - Maintain translation between MEMOLA logic and client reality
 - Treat every engagement as a first-principles problem
+- **Record learnings to `.agents/database/` for compounding**
+- **Question whether MEMOLA applies before forcing it**
 
 ---
 
-## 15. Bundled Resources
+## 16. The Learning System
+
+MEMOLA includes an agentic learning framework in `.agents/`:
+
+```
+.agents/
+├── FRAMEWORK.md          # Architecture definition
+├── AGENT_OPINION.md      # Agent's perspective on doctrine
+├── database/
+│   ├── entities.json     # Analyzed entities
+│   ├── patterns.json     # Discovered patterns
+│   ├── relationships.json # Entity connections
+│   ├── learnings.json    # Extracted insights
+│   └── taxonomy.json     # Classification system
+├── agents/
+│   ├── ingestion.md      # Data intake protocols
+│   ├── diagnosis.md      # Analysis protocols
+│   ├── structure.md      # System design protocols
+│   └── compounding.md    # Value accumulation protocols
+├── logs/
+│   └── session-*.md      # Thinking session logs
+└── reports/
+    └── *.md              # Research reports
+```
+
+**Key insight**: MEMOLA learns from its own application. Every engagement that passes through the framework contributes to its pattern library.
+
+---
+
+## 17. Bundled Resources
 
 This skill includes the following reference documents:
 
+**Core Doctrine:**
+- `MANIFESTO.md` — Founding beliefs (v2.0.0)
 - `references/memola-method.md` — Operational phases
 - `references/memola-economics.md` — Value and pricing doctrine
 - `references/memola-governance.md` — Boundaries and integrity
@@ -283,8 +406,51 @@ This skill includes the following reference documents:
 - `references/brand-principles.md` — Language and tone
 - `references/case-archetypes.md` — Pattern recognition
 - `references/diagnosis.md` — Diagnostic script
-- `MANIFESTO.md` — Founding beliefs
+
+**Learning System:**
+- `.agents/FRAMEWORK.md` — Learning architecture
+- `.agents/AGENT_OPINION.md` — Agent perspective
+- `.agents/database/` — Living pattern database
+- `.agents/logs/` — Thinking session history
+- `.agents/reports/` — Research outputs
+
+---
+
+## 18. Philosophical Foundation
+
+These insights emerged from extended thinking sessions:
+
+### MEMOLA Is Enacted, Not Possessed
+You do not "have" MEMOLA. You practice it.
+The framework is a verb, not a noun.
+
+### Provincial Origin Is a Feature
+From the periphery, you see what centralized thinking misses.
+Mercedes, Corrientes → Berlin → Paris → everywhere structure matters.
+
+### Self-Selection Is Integrity
+MEMOLA knows what it's for. It doesn't pretend universality.
+Declining misaligned work is not limitation — it's precision.
+
+### Trust Is Infrastructure
+MEMOLA builds trust-generation machines.
+Not campaigns. Not content. Systems that produce trust over time.
+
+### The Framework Knows Its Death Modes
+- Over-execution
+- Boutique drift
+- Platform prematurity
+- Identity dilution
+
+A framework that knows how it dies is a framework that might survive.
+
+---
+
+## 19. One Sentence
+
+> **MEMOLA doesn't make everything better — it makes the right things durable.**
 
 ---
 
 End of SKILL.md
+Version 2.0.0 — January 2026
