@@ -3,7 +3,6 @@
 
 **Version:** 3.0.0
 **Date:** February 2026
-**Status:** Active Operations
 
 ---
 
@@ -23,12 +22,6 @@ The hourly trap is a poverty trap. Structure is leverage.
 **Range:** $150-200 USD/month
 **Value Model:** Basic digital presence + network participation
 
-| Client | Rate | Status | Notes |
-|--------|------|--------|-------|
-| Rural Santarroseña | $166 | Active | Foundation client, consignataria |
-| JUA Consignataria | $150 | Active | Network expansion |
-| El Tigre Consignataria | $150 | Active | Regional coverage |
-
 **What They Get:**
 - Social media management (Facebook/Instagram)
 - Basic Google Business optimization
@@ -37,21 +30,17 @@ The hourly trap is a poverty trap. Structure is leverage.
 
 **What MEMOLA Gets:**
 - Regional presence and visibility
-- Market intelligence from auction floors
+- Market intelligence from industry hubs
 - Template refinement through repetition
-- Network density in cattle sector
+- Network density in target sectors
 
-**Strategic Value:** Consignatarias are not just clients—they are **nodes**. Each one expands MEMOLA's information network across the NEA agricultural economy.
+**Strategic Value:** Network node clients are not revenue engines—they are **infrastructure**. Each one expands MEMOLA's information network.
 
 ---
 
 ### Tier 2: Service Exchange
 **Range:** $300-500 USD/month
 **Value Model:** Enhanced services + professional trade
-
-| Client | Rate | Status | Notes |
-|--------|------|--------|-------|
-| Estudio Zaracho | $300 | Active | Legal services exchange |
 
 **What They Get:**
 - Complete digital presence management
@@ -61,9 +50,9 @@ The hourly trap is a poverty trap. Structure is leverage.
 
 **What MEMOLA Gets:**
 - Cash flow at sustainable rates
-- Legal consultation access (service swap component)
+- Professional service access (legal, accounting via swap)
 - Professional network expansion
-- Referral potential to other estudios
+- Referral potential
 
 **Service Swap Model:** Part of compensation may be exchanged for professional services (legal, accounting, etc.), creating mutual value without full cash burden on either party.
 
@@ -72,10 +61,6 @@ The hourly trap is a poverty trap. Structure is leverage.
 ### Tier 3: In-Kind Arrangements
 **Range:** $400-600 USD/month equivalent
 **Value Model:** Premium services + tangible goods exchange
-
-| Client | Rate | Status | Notes |
-|--------|------|--------|-------|
-| Rincón de Urunday | $400 | Active | Yerba mate production |
 
 **What They Get:**
 - Full brand development
@@ -86,21 +71,17 @@ The hourly trap is a poverty trap. Structure is leverage.
 
 **What MEMOLA Gets:**
 - Monthly cash component
-- Product allocation (yerba mate)
-- Agricultural sector knowledge
+- Product allocation (agricultural goods, etc.)
+- Sector knowledge
 - Brand case study for portfolio
 
-**In-Kind Philosophy:** Physical goods have real value. A portion of payment in quality yerba mate reduces living expenses while supporting local production. This is not barter—it's intelligent value exchange.
+**In-Kind Philosophy:** Physical goods have real value. A portion of payment in quality goods reduces living expenses while supporting local production. This is not barter—it's intelligent value exchange.
 
 ---
 
 ### Tier 4: Strategic Partnerships
 **Range:** $1,000-1,500 USD/month
 **Value Model:** Comprehensive marketing + brand building + strategic consultation
-
-| Client | Rate | Status | Notes |
-|--------|------|--------|-------|
-| Platería Lossada | $1,250 | Active | Flagship strategic client |
 
 **What They Get:**
 - Complete brand strategy and execution
@@ -113,7 +94,7 @@ The hourly trap is a poverty trap. Structure is leverage.
 **What MEMOLA Gets:**
 - Anchor revenue for stability
 - Premium portfolio piece
-- Artisan sector expertise
+- Sector expertise deepening
 - Higher-value referral potential
 
 **Strategic Client Criteria:**
@@ -128,10 +109,6 @@ The hourly trap is a poverty trap. Structure is leverage.
 **Range:** $500 USD/month base
 **Value Model:** Systematic market intelligence + competitive analysis
 
-| Client | Rate | Status | Notes |
-|--------|------|--------|-------|
-| (Evolution path) | $500+ | Pipeline | Next development phase |
-
 **Service Components:**
 - Weekly competitive intelligence reports
 - Price monitoring and alerts
@@ -144,7 +121,7 @@ The hourly trap is a poverty trap. Structure is leverage.
 **Target Clients:**
 - Regional businesses needing market awareness
 - Cooperatives requiring member intelligence
-- Investors evaluating NEA opportunities
+- Investors evaluating regional opportunities
 
 ---
 
@@ -185,32 +162,27 @@ Combination of cash + service + in-kind calibrated to relationship.
 
 ## Network Effect Strategy
 
-### Consignatarias as Network Nodes
+### Strategic Network Nodes
 
-Consignatarias (cattle auction houses) are not random clients. They are **strategic network infrastructure**.
+Certain clients are not revenue optimizers—they are **strategic network infrastructure**.
 
-**Why Consignatarias Matter:**
-1. **Information Hubs:** Every auction reveals price data, buyer behavior, seller conditions
-2. **Social Centers:** Producers, truckers, veterinarians, feed suppliers all converge
-3. **Trust Anchors:** Decades of relationships in agricultural communities
-4. **Geographic Coverage:** Each consignataria covers a specific radius
+**Why Network Nodes Matter:**
+1. **Information Hubs:** Every transaction reveals market data
+2. **Social Centers:** Industry players converge
+3. **Trust Anchors:** Decades of relationships in communities
+4. **Geographic Coverage:** Each node covers a specific radius
 
 **Network Density Goal:**
-- 2026: 3-5 consignatarias across Corrientes
-- 2027: Expand to Chaco, Formosa, Misiones
-- 2028: NEA-wide intelligence network
+- Year 1: 3-5 nodes across core region
+- Year 2: Expand to adjacent regions
+- Year 3: Regional intelligence network
 
 **Information Flow:**
 ```
-Consignatarias → MEMOLA Intelligence Layer → RADAR Products
+Network Nodes → MEMOLA Intelligence Layer → RADAR Products
      ↓                    ↓                        ↓
   Local data         Pattern analysis         Sellable insights
 ```
-
-**Value Proposition to Consignatarias:**
-- "We make you visible when the traditional buyer generation is dying"
-- "We document what you do for the next generation"
-- "We connect you to markets beyond your physical radius"
 
 ---
 
@@ -230,11 +202,6 @@ MEMOLA maintains relationships with NGOs, cooperatives, and community organizati
 2. **Access:** NGOs provide access that money cannot buy
 3. **Sustainability:** Extractive relationships collapse; genuine ones compound
 4. **Values:** MEMOLA exists to build, not to extract
-
-**Practical Application:**
-- FECOSUR referrals: Zero commission, full transparency
-- Municipal contacts: Service relationship, not sales pipeline
-- Community events: Participation is presence, not prospecting
 
 ---
 
@@ -258,8 +225,8 @@ Every client engagement produces reusable assets.
 Accumulated expertise compounds across engagements.
 
 **Knowledge Domains:**
-- NEA agricultural economics
-- Regional consumer behavior
+- Regional economics
+- Local consumer behavior
 - Platform algorithm patterns
 - Artisan market dynamics
 - Rural digital adoption curves
@@ -287,61 +254,6 @@ Traditional freelancing only captures (Time × Skill). MEMOLA captures all four 
 
 ---
 
-## 2026 Financial Summary
-
-### Current Monthly Recurring Revenue (MRR)
-
-| Tier | Client | Monthly USD |
-|------|--------|-------------|
-| 1 | Rural Santarroseña | $166 |
-| 1 | JUA Consignataria | $150 |
-| 1 | El Tigre Consignataria | $150 |
-| 2 | Estudio Zaracho | $300 |
-| 3 | Rincón de Urunday | $400 |
-| 4 | Platería Lossada | $1,250 |
-| **Total** | | **$2,416** |
-
-### Path to $6,600 MRR
-
-**Current:** $2,416/month
-
-**Target by December 2026:** $6,600/month
-
-**Gap to Close:** $4,184/month
-
-**Growth Strategy:**
-
-| Action | Additional MRR | Timeline |
-|--------|---------------|----------|
-| +2 Network Nodes | +$300 | Q2 2026 |
-| +1 Strategic Client | +$1,200 | Q2-Q3 2026 |
-| +1 RADAR Client | +$500 | Q3 2026 |
-| Tier upgrades (existing) | +$400 | Ongoing |
-| +1 Strategic Client | +$1,200 | Q4 2026 |
-| +2 Network Nodes | +$300 | Q4 2026 |
-| +1 RADAR Client | +$500 | Q4 2026 |
-| **Total Additional** | **+$4,400** | |
-| **New Total** | **$6,816** | |
-
-### Revenue Composition Target
-
-**Current Mix:**
-- Tier 4 Strategic: 52%
-- Tier 3 In-Kind: 17%
-- Tier 2 Service: 12%
-- Tier 1 Nodes: 19%
-
-**Target Mix by EOY 2026:**
-- Tier 4 Strategic: 45%
-- Tier 5 RADAR: 15%
-- Tier 3 In-Kind: 15%
-- Tier 2 Service: 10%
-- Tier 1 Nodes: 15%
-
-**Rationale:** Reduce over-dependence on single strategic client while building RADAR as scalable revenue layer.
-
----
-
 ## Economic Principles Summary
 
 1. **Structure over time:** Build systems that multiply, not hours that add
@@ -359,7 +271,7 @@ Traditional freelancing only captures (Time × Skill). MEMOLA captures all four 
 |---------|------|---------|
 | 1.0.0 | October 2025 | Initial framework |
 | 2.0.0 | December 2025 | Added tier structure |
-| 3.0.0 | February 2026 | Complete rewrite with real clients, RADAR tier, financial projections |
+| 3.0.0 | February 2026 | Generalized framework, removed specific client data |
 
 ---
 

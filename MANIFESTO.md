@@ -171,20 +171,18 @@ MEMOLA is no longer just a framework. It is a **functioning autonomous system**.
 
 ---
 
-## The Clients Who Prove It
+## Proof Through Execution
 
-MEMOLA's doctrine is validated by real clients:
+MEMOLA's doctrine is validated by four client archetypes:
 
-| Client | Type | Proof |
-|--------|------|-------|
-| **Platería Lossada** | Flagship | 4:1 ROI on Meta Ads, 18+ months |
-| **Rural de Mercedes** | NGO | Inbound lead generation, institutional trust |
-| **JUA Consignataria** | Network | Auction access, cattle market intelligence |
-| **Rincón de Urunday** | RADAR pilot | First data layer instrumentation |
+| Archetype | Purpose | Proof Point |
+|-----------|---------|-------------|
+| **Flagship** | Strategic partnership | Measurable ROI (3:1+ target) |
+| **NGO** | Institutional trust | Lead generation, network access |
+| **Network Node** | Market intelligence | Auction access, industry visibility |
+| **Pilot** | System evolution | Data instrumentation for RADAR |
 
-Total NEA-based MRR: ~$2,266/month
-
-These are not case studies. They are **ongoing proof of execution**.
+These are not case studies. They are **patterns of execution**.
 
 ---
 

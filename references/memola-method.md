@@ -19,35 +19,31 @@ Four concrete service patterns. Not phases. Not tiers. Patterns that match real 
 ---
 
 ### Archetype A: Template Workflow
-**~30 min/month | $166-200/month**
+**~30 min/month | $150-200/month**
 
-**What it is:** Systematized content delivery where Jose's involvement is near-zero. The client receives consistent output from documented templates executed by delegated labor or automation.
+**What it is:** Systematized content delivery where operator involvement is near-zero. The client receives consistent output from documented templates executed by delegated labor or automation.
 
-**Real clients:**
-- JUA (aesthetic clinic)
-- El Tigre (rural property)
-- Rural real estate accounts
+**Typical clients:** Network nodes, basic presence needs, volume accounts
 
 **Deliverables:**
 - 4 posts/month from proven templates
 - Scheduling via pre-approved content bank
 - Monthly performance screenshot
 
-**Jose's role:** Review output once monthly. Intervene only on template failures.
+**Operator role:** Review output once monthly. Intervene only on template failures.
 
 **Quality gate:** Does output match template? (Y/N, 30 seconds)
 
-**Pricing logic:** $166-200 covers delegated execution ($100-150 Fiverr) plus margin for template maintenance and occasional oversight. Client pays for consistency, not creativity.
+**Pricing logic:** Covers delegated execution plus margin for template maintenance and occasional oversight. Client pays for consistency, not creativity.
 
 ---
 
 ### Archetype B: Campaign Management
-**~10 hrs/month | $1,200/month**
+**~10 hrs/month | $1,000-1,500/month**
 
-**What it is:** Active management of marketing campaigns with real optimization decisions. Jose reviews data, adjusts targeting, refreshes creative, and makes strategic calls.
+**What it is:** Active management of marketing campaigns with real optimization decisions. Operator reviews data, adjusts targeting, refreshes creative, and makes strategic calls.
 
-**Real client:**
-- Lossada (real estate development)
+**Typical clients:** Strategic partners, ROI-focused businesses
 
 **Deliverables:**
 - Weekly campaign review and adjustment
@@ -55,21 +51,20 @@ Four concrete service patterns. Not phases. Not tiers. Patterns that match real 
 - Creative refresh as needed
 - Budget optimization
 
-**Jose's role:** Weekly active management. Strategic decisions on spend allocation. Creative direction.
+**Operator role:** Weekly active management. Strategic decisions on spend allocation. Creative direction.
 
 **Quality gate:** Is ROAS above target? Are leads qualified? (Y/N, 2 minutes via dashboard)
 
-**Pricing logic:** $1,200 reflects real expertise time. Not delegatable until RADAR automates pattern recognition. Premium for active decision-making.
+**Pricing logic:** Reflects real expertise time. Not delegatable until RADAR automates pattern recognition. Premium for active decision-making.
 
 ---
 
 ### Archetype C: Local Activation
-**~18 hrs/month | $500/month**
+**~15-20 hrs/month | $400-600/month**
 
-**What it is:** Community-embedded marketing that requires local presence and relationship management. Cannot be fully systematized because value comes from Jose's network position.
+**What it is:** Community-embedded marketing that requires local presence and relationship management. Cannot be fully systematized because value comes from network position.
 
-**Real client:**
-- Rincon de Luna (local venue/events)
+**Typical clients:** Local businesses, event-based operations, community-embedded brands
 
 **Deliverables:**
 - Event promotion and coordination
@@ -77,11 +72,11 @@ Four concrete service patterns. Not phases. Not tiers. Patterns that match real 
 - Community engagement management
 - On-ground content capture
 
-**Jose's role:** High-touch involvement. Physical presence for events. Relationship maintenance.
+**Operator role:** High-touch involvement. Physical presence for events. Relationship maintenance.
 
 **Quality gate:** Did event meet attendance target? Is community engagement growing? (Y/N, 2 minutes)
 
-**Pricing logic:** $500 is below market rate but builds strategic position. Local credibility compounds. Accept lower margin for network effects.
+**Pricing logic:** May be below market rate but builds strategic position. Local credibility compounds. Accept lower margin for network effects.
 
 ---
 
@@ -90,34 +85,33 @@ Four concrete service patterns. Not phases. Not tiers. Patterns that match real 
 
 **What it is:** High-value projects that establish long-term relationships or create significant portfolio pieces. Not recurring. Not systematizable. Worth doing for strategic reasons.
 
-**Real client:**
-- Rewilding Argentina (conservation organization)
+**Typical clients:** Organizations with specific project needs, portfolio-building opportunities
 
 **Deliverables:**
 - Project-specific scope
 - Portfolio-quality output
 - Relationship establishment
 
-**Jose's role:** Full engagement. This is craft work, not system work.
+**Operator role:** Full engagement. This is craft work, not system work.
 
 **Quality gate:** Does client want to continue relationship? Is output portfolio-worthy? (Y/N)
 
-**Pricing logic:** Price to value, not to hours. Consider strategic benefit. Rewilding opened doors that hourly billing never would.
+**Pricing logic:** Price to value, not to hours. Consider strategic benefit beyond immediate revenue.
 
 ---
 
-## Part 2: Jose's Principle
+## Part 2: The Core Principle
 
 ### "Do Once, SOP, Delegate"
 
-Every task Jose does manually is a failure of systematization—unless it's the first time doing that task.
+Every task done manually is a failure of systematization—unless it's the first time doing that task.
 
 ---
 
-### Stage 1: Jose Does It
+### Stage 1: Do It
 **Purpose:** Learn requirements through execution
 
-- First three times doing any task, Jose executes personally
+- First three times doing any task, execute personally
 - Observe friction points, client feedback, failure modes
 - Document what actually matters vs. what seemed important
 
@@ -125,30 +119,30 @@ Every task Jose does manually is a failure of systematization—unless it's the 
 
 ---
 
-### Stage 2: Jose Documents It
+### Stage 2: Document It
 **Purpose:** Create SOP after pattern emerges
 
 - After 3x execution, write SOP
 - SOP must be executable by someone with no context
 - Include: trigger conditions, steps, quality checks, common failures
-- Test SOP by having someone else execute while Jose observes
+- Test SOP by having someone else execute while you observe
 
-**Exit criteria:** Documented SOP that produces consistent results without Jose explaining
+**Exit criteria:** Documented SOP that produces consistent results without explanation
 
 ---
 
-### Stage 3: Jose Delegates It
-**Purpose:** Remove Jose from execution loop
+### Stage 3: Delegate It
+**Purpose:** Remove yourself from execution loop
 
-- Delegate to Fiverr contractor ($100-150/month typical)
-- Jose reviews output, not process
+- Delegate to contractor ($100-150/month typical)
+- Review output, not process
 - Intervene only on quality gate failures
 
-**Exit criteria:** 3 consecutive months of acceptable output without Jose intervention
+**Exit criteria:** 3 consecutive months of acceptable output without intervention
 
 ---
 
-### Stage 4: System Does It
+### Stage 4: Automate It
 **Purpose:** Remove human from loop entirely
 
 - This is RADAR destination
@@ -207,24 +201,24 @@ Quality gates must be binary and take less than 2 minutes. If you're debating, t
 
 ### Gate Failure Protocol
 
-1. Gate fails -> Document failure
-2. First failure -> Fix and continue
-3. Second failure same type -> SOP review
-4. Third failure same type -> Archetype mismatch, restructure engagement
+1. Gate fails → Document failure
+2. First failure → Fix and continue
+3. Second failure same type → SOP review
+4. Third failure same type → Archetype mismatch, restructure engagement
 
 ---
 
 ## Part 4: Pricing Logic
 
-Pricing follows archetype, not hours. Hours are Jose's problem, not client's.
+Pricing follows archetype, not hours. Hours are your problem, not client's.
 
 ---
 
-### Template Workflow: $166-200/month
+### Template Workflow: $150-200/month
 
 **Cost structure:**
-- Delegated execution: $100-150/month (Fiverr)
-- Jose oversight: 30 min/month
+- Delegated execution: $100-150/month
+- Oversight: 30 min/month
 - Template maintenance: amortized
 
 **Margin:** 25-40%
@@ -235,14 +229,14 @@ Pricing follows archetype, not hours. Hours are Jose's problem, not client's.
 
 ---
 
-### Campaign Management: $1,200/month
+### Campaign Management: $1,000-1,500/month
 
 **Cost structure:**
-- Jose time: ~10 hrs/month
+- Time: ~10 hrs/month
 - Tools: ~$50/month amortized
 - No delegation (expertise required)
 
-**Effective rate:** ~$115/hour
+**Effective rate:** $100-150/hour
 
 **Raise price when:** Results consistently exceed targets
 
@@ -250,13 +244,13 @@ Pricing follows archetype, not hours. Hours are Jose's problem, not client's.
 
 ---
 
-### Local Activation: $500/month
+### Local Activation: $400-600/month
 
 **Cost structure:**
-- Jose time: ~18 hrs/month
+- Time: ~15-20 hrs/month
 - Local expenses: variable
 
-**Effective rate:** ~$28/hour
+**Effective rate:** $25-40/hour
 
 **Why accept:** Strategic position value exceeds hourly rate. Network effects. Portfolio building.
 
@@ -283,7 +277,7 @@ RADAR is the destination: systems that run themselves. Evolution is staged, not 
 ### Level 0: Manual
 **Current state for new tasks**
 
-- Jose executes everything
+- Execute everything personally
 - Data in spreadsheets or memory
 - No automation
 - Full human dependency
@@ -292,7 +286,7 @@ RADAR is the destination: systems that run themselves. Evolution is staged, not 
 
 ---
 
-### Level 1: Data
+### Level 1: Documented
 **SOP + Tracked metrics**
 
 - Documented process exists
@@ -328,25 +322,13 @@ RADAR is the destination: systems that run themselves. Evolution is staged, not 
 
 ---
 
-### Current Client Positions
-
-| Client | Current Level | Next Level Target |
-|--------|---------------|-------------------|
-| JUA | Level 1 | Level 2 (Q2 2026) |
-| El Tigre | Level 1 | Level 2 (Q3 2026) |
-| Lossada | Level 1 | Level 2 (Q2 2026) |
-| Rincon | Level 0 | Level 1 (Q2 2026) |
-| Rewilding | N/A (Project) | N/A |
-
----
-
 ## Part 6: Operational Rhythm
 
-Systems need heartbeats. Here's the rhythm that keeps MEMOLA running.
+Systems need heartbeats. Here's the rhythm that keeps operations running.
 
 ---
 
-### Daily: NEXO Checks (15 min)
+### Daily: Quick Checks (15 min)
 
 **Morning sweep:**
 - [ ] Any client messages requiring response?
@@ -354,7 +336,7 @@ Systems need heartbeats. Here's the rhythm that keeps MEMOLA running.
 - [ ] Any campaign alerts (overspend, underperform)?
 - [ ] Any contractor questions?
 
-**Decision:** Anything need Jose today? If no, day is free for strategic work.
+**Decision:** Anything need attention today? If no, day is free for strategic work.
 
 ---
 
@@ -370,8 +352,6 @@ Systems need heartbeats. Here's the rhythm that keeps MEMOLA running.
 - What needs SOP update?
 - What's ready to delegate?
 - Any client conversations needed?
-
-**Output:** Brief status note in MEMOR
 
 ---
 
@@ -391,8 +371,6 @@ Systems need heartbeats. Here's the rhythm that keeps MEMOLA running.
 - [ ] Pricing adjustments needed?
 - [ ] Strategic opportunities emerging?
 
-**Output:** Monthly MEMOLA status in MEMOR
-
 ---
 
 ### Quarterly: Strategic Review (half day)
@@ -408,11 +386,6 @@ Systems need heartbeats. Here's the rhythm that keeps MEMOLA running.
 - What's stuck? Why?
 - What should be sunset?
 
-**Decisions:**
-- Client additions/removals
-- Pricing changes
-- System investments
-
 ---
 
 ## Part 7: Agent System Integration
@@ -427,13 +400,11 @@ Four agents. Clear responsibilities. No overlap.
 
 **Responsibilities:**
 - Execute daily checks
-- Flag issues requiring Jose attention
+- Flag issues requiring attention
 - Coordinate contractor communication
 - Ensure deliverables ship
 
 **Quality output:** Daily status (all clear / attention needed)
-
-**Hands off to:** MEMOR (for logging), VIGIL (for qualification), PULSO (for feedback collection)
 
 ---
 
@@ -445,11 +416,9 @@ Four agents. Clear responsibilities. No overlap.
 - Log all significant events
 - Track quality gate results over time
 - Identify patterns (what keeps failing? what's stable?)
-- Maintain client histories
+- Maintain histories
 
 **Quality output:** Weekly pattern summary, SOP update recommendations
-
-**Hands off to:** NEXO (for action items), Jose (for strategic decisions)
 
 ---
 
@@ -461,11 +430,9 @@ Four agents. Clear responsibilities. No overlap.
 - Assess incoming opportunities against archetype fit
 - Flag strategic opportunities that might not fit archetypes but have value
 - Maintain "no" criteria (what we don't do)
-- Pre-qualify before Jose engagement
+- Pre-qualify before engagement
 
 **Quality output:** Qualified/Unqualified decision with reasoning
-
-**Hands off to:** Jose (qualified opportunities only)
 
 ---
 
@@ -474,55 +441,28 @@ Four agents. Clear responsibilities. No overlap.
 **Role:** Feedback and data gathering
 
 **Responsibilities:**
-- Collect client feedback (structured and unstructured)
+- Collect feedback (structured and unstructured)
 - Monitor external signals (market, competition, trends)
-- Feed data to MEMOR for pattern analysis
+- Feed data for pattern analysis
 - Track leading indicators
 
 **Quality output:** Weekly signal summary
-
-**Hands off to:** MEMOR (for logging), VIGIL (for opportunity signals)
 
 ---
 
 ### Agent Interaction Flow
 
 ```
-Opportunity -> VIGIL (qualify) -> Jose (decide) -> NEXO (execute)
-                                                       |
-                                                  MEMOR (log)
-                                                       |
-                                                  PULSO (collect feedback)
-                                                       |
-                                                  MEMOR (pattern analysis)
-                                                       |
-                                                  Jose (strategic adjustment)
+Opportunity → VIGIL (qualify) → Decision → NEXO (execute)
+                                              |
+                                         MEMOR (log)
+                                              |
+                                         PULSO (collect feedback)
+                                              |
+                                         MEMOR (pattern analysis)
+                                              |
+                                         Strategic adjustment
 ```
-
----
-
-## Implementation Notes
-
-### Starting Point (February 2026)
-
-1. Classify all current clients by archetype
-2. Document current quality gates (even if informal)
-3. List all tasks Jose does that could be Stage 2 or 3
-4. Set up basic tracking for operational rhythm
-
-### 90-Day Target
-
-1. All Template Workflow clients at Level 1 minimum
-2. SOPs written for all recurring tasks
-3. At least one delegation active
-4. Weekly rhythm established and consistent
-
-### 6-Month Target
-
-1. At least two clients at Level 2
-2. Delegation handling majority of Template Workflow execution
-3. Jose time primarily on Campaign Management and strategy
-4. Clear RADAR roadmap for each client
 
 ---
 
@@ -530,7 +470,7 @@ Opportunity -> VIGIL (qualify) -> Jose (decide) -> NEXO (execute)
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 3.0.0 | Feb 2026 | Complete rewrite around delivery archetypes |
+| 3.0.0 | Feb 2026 | Generalized framework, removed specific client data |
 | 2.x | 2025 | Previous iteration (deprecated) |
 | 1.x | 2024 | Initial framework (deprecated) |
 

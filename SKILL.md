@@ -343,57 +343,31 @@ Language must be clear, calm, and grounded.
 
 ---
 
-## 12. Case Logic — Real Clients
+## 12. Case Logic — Client Archetypes
 
-MEMOLA is proven through real engagements in NEA Argentina.
+MEMOLA work typically fits these recurring patterns:
 
-### Active Client Portfolio (February 2026)
+### Archetype 1: Flagship Strategic Client
+- Full marketing operation embedded in client
+- High-touch, high-trust relationship
+- Measurable ROI (target 3:1 minimum)
+- Long-term engagement (12+ months)
 
-| Client | Monthly | Sector | Status | Significance |
-|--------|---------|--------|--------|--------------|
-| **Plateria Lossada** | $1,200 | Retail (Corrientes) | FLAGSHIP | 4:1 ROI proven, 18+ months |
-| **Rural de Mercedes** | $200 | Institution (NGO) | ACTIVE | Lead generator, network hub |
-| **JUA Consignataria** | $200 | Consignataria | ACTIVE | Network node |
-| **El Tigre** | $166 | Consignataria | ACTIVE | Network node |
-| **Rincon de Urunday** | $500 | Frigorifico/Retail | STARTING | RADAR pilot |
+### Archetype 2: Network Node Client
+- Low-touch, templated service delivery
+- Value comes from network access, not margin
+- Scalable through systematization
+- Examples: consignatarias, professional associations
 
-**Total NEA-based MRR:** ~$2,266/month
+### Archetype 3: NGO / Institutional Client
+- Institutional credibility and lead generation
+- **Rule: NEVER monetize referrals from NGO relationships**
+- Strategic positioning, not revenue optimization
 
-### Case: Plateria Lossada (Flagship)
-
-| Metric | Value |
-|--------|-------|
-| **Retainer** | $1,200/month |
-| **ROI** | 4:1 on Meta Ads |
-| **Duration** | 18+ months |
-| **Proof** | MEMOLA delivers measurable ROI in NEA retail |
-
-### Case: Rural de Mercedes (NGO Network Hub)
-
-| Metric | Value |
-|--------|-------|
-| **Retainer** | $200/month |
-| **Type** | Agricultural association (NGO) |
-| **Value** | Inbound leads, institutional credibility, network access |
-| **Rule** | NEVER monetize referrals from NGO relationships |
-
-### Case: JUA & El Tigre (Consignataria Network Nodes)
-
-| Metric | Value |
-|--------|-------|
-| **Retainer** | $200 + $166/month |
-| **Type** | Livestock commission houses |
-| **Value** | Network penetration, auction calendar access |
-| **Pattern** | Templated PSD creatives, scalable service |
-
-### Case: Rincon de Urunday (RADAR Pilot)
-
-| Metric | Value |
-|--------|-------|
-| **Value** | $500/month ($250 cash + $250 meat) |
-| **Type** | Retail meat shop |
-| **Innovation** | First RADAR data instrumentation |
-| **Deliverables** | Meta Ads, geo segmentation, radio, influencer |
+### Archetype 4: Pilot / Innovation Client
+- Testing new service models (e.g., RADAR)
+- May include non-cash value exchange
+- Data collection priority
 
 **Cases are patterns, not trophies.**
 
@@ -622,12 +596,12 @@ MEMOLA's home terrain is the Nordeste Argentino (NEA), headquartered in Mercedes
 
 RADAR is MEMOLA's recurring intelligence product — market data that reduces uncertainty.
 
-| Phase | Focus | Status |
-|-------|-------|--------|
-| Phase 0 | Instrumentation | NOW (Rincon pilot) |
-| Phase 1 | Pattern extraction | Q2 2026 |
-| Phase 2 | Dashboard MVP | Q3 2026 |
-| Phase 3 | Product | Q4 2026 |
+| Phase | Focus |
+|-------|-------|
+| Phase 0 | Instrumentation — capture data from active campaigns |
+| Phase 1 | Pattern extraction — identify reusable insights |
+| Phase 2 | Dashboard MVP — visualize for client value |
+| Phase 3 | Product — sellable intelligence service |
 
 **Critical Rule:** No dashboard before data. No product before pilot. No pilot before instrumentation.
 
