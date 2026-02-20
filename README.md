@@ -1,83 +1,15 @@
 # MEMOLA®
 
-**Entropy control for AI-native operators.**
-
-```
-Born in provincial Argentina, solving slow institutions.
-Now installed by builders deploying autonomous agents.
-
-That convergence is not random.
-```
+**Strategic assessment system for AI-native operators.**
 
 ---
 
-## What MEMOLA® Is
+## What Is MEMOLA®?
 
-MEMOLA® is not a productivity tool.
-MEMOLA® is not another agent layer.
-MEMOLA® is not chasing adoption.
+MEMOLA® is a multi-agent strategic assessment system. It helps operators evaluate projects, platforms, and engagements before committing resources.
 
-**MEMOLA® is a filtration system.**
-
-It answers one question before you build, deploy, or automate:
-
-> **"Should this exist?"**
-
----
-
-## Why This Matters Now
-
-AI builders are realizing a hard truth:
-
-**Speed without governance creates entropy.**
-
-Most agents today:
-- Execute too fast
-- Overbuild without validation
-- Ignore governance requirements
-- Optimize for scale, not durability
-
-MEMOLA® is the counter-pattern.
-
-It provides **pre-flight checks** before autonomous systems are deployed.
-
----
-
-## Who This Is For
-
-MEMOLA® is for operators who value:
-
-- **Filtration over scale** — saying no to misaligned work
-- **Durability over speed** — building what survives
-- **Governance over hype** — institutions that compound trust
-- **Precision over visibility** — quality clients, not volume
-
-**Ideal users:**
-
-| Profile | Use Case |
-|---------|----------|
-| **AI Agent Builders** | Pre-flight terrain assessment before deployment |
-| **Institutional Operators** | AI adoption risk filter for governance-heavy environments |
-| **High-Ticket Consultants** | Client selection filter for higher margins, lower chaos |
-| **Infrastructure Founders** | Platform viability assessment before building |
-| **Regional Service Providers** | Legitimacy-first positioning in trust-based markets |
-
----
-
-## What It Stops
-
-The power of MEMOLA® is not what it builds.
-**It's what it prevents.**
-
-| MEMOLA® Stops | By Asking |
-|---------------|-----------|
-| Premature platform builds | "Does this survive long enough for structure to matter?" |
-| Misaligned client work | "Is legitimacy more valuable than speed here?" |
-| Agent deployments in wrong terrain | "Does failure look like weathering or rupture?" |
-| Governance-blind automation | "Who has decision authority? What are the exit conditions?" |
-| Hype-driven execution | "Does this work without going viral?" |
-
-**If score < 4 on the five diagnostic questions → abort.**
+Born in provincial Argentina solving slow-moving institutions.
+Now used by builders deploying autonomous agents.
 
 ---
 
@@ -89,29 +21,102 @@ npx skills add https://github.com/josebarnetche/memola --skill MEMOLA
 
 ---
 
-## Core Components
+## Agent Hierarchy
 
-### 1. Terrain Assessment (Start Here)
+MEMOLA® operates through a command structure with four specialized agents:
 
-Before any engagement, MEMOLA® classifies the environment:
+```
+                         ┌─────────────────┐
+                         │     MEMOR       │
+                         │ Strategic Command│
+                         └────────┬────────┘
+                                  │
+           ┌──────────────────────┼──────────────────────┐
+           │                      │                      │
+           ▼                      ▼                      ▼
+    ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
+    │    VIGIL    │       │    NEXO     │       │    PULSO    │
+    │   Revenue   │       │  Operations │       │    Intel    │
+    └─────────────┘       └─────────────┘       └─────────────┘
+```
 
-**Foundation Terrain** (MEMOLA® applies):
-- Failure = weathering over time
-- Trust compounds
-- Legitimacy > speed
-- Reputation outlasts hype
+### MEMOR — Strategic Command
+**Reports to:** Operator
+**Commands:** VIGIL, NEXO, PULSO
 
-**Sprint Terrain** (MEMOLA® does NOT apply):
-- Failure = rupture
+The supreme commander. Maintains doctrine, runs weekly audits, enforces priorities, detects drift.
+
+**Asks:** "Are we doing what we said we'd do?"
+
+### VIGIL — Revenue & Opportunities
+**Reports to:** MEMOR
+
+Watches for money. Scans networks, qualifies opportunities, monitors client health.
+
+**Asks:** "Where is the money?"
+
+### NEXO — Operations & Delivery
+**Reports to:** MEMOR
+
+Ships work. Coordinates execution, tracks deliverables, manages billing.
+
+**Asks:** "Is it shipped? Is it billed?"
+
+### PULSO — Market Intelligence
+**Reports to:** MEMOR
+
+Reads the market. Gathers data, identifies patterns, builds intelligence.
+
+**Asks:** "What does the data say?"
+
+---
+
+## Sub-Skills
+
+| Skill | Purpose | Trigger |
+|-------|---------|---------|
+| **MEMOLA-Diagnosis** | Terrain assessment | `memola diagnose [project]` |
+| **MEMOLA-Governance** | Authority verification | `memola governance [project]` |
+| **MEMOLA-Platforms** | Platform viability | `memola platform [idea]` |
+| **MEMOLA-Local** | Regional strategy | `memola local [market]` |
+| **MEMOLA-Creative** | Creative industry | `memola creative [project]` |
+| **memola-strategy** | Full strategic system | `memola strategy` |
+
+---
+
+## Quick Reference
+
+| Command | Action |
+|---------|--------|
+| `memor status` | System state |
+| `memor audit` | Weekly strategic audit |
+| `memor terrain [project]` | Terrain classification |
+| `vigil sweep` | Opportunity scan |
+| `vigil qualify [lead]` | Lead assessment |
+| `nexo status` | Delivery state |
+| `nexo ship` | Ready deliverables |
+| `pulso intel [topic]` | Gather intelligence |
+| `pulso patterns` | Identified patterns |
+
+---
+
+## Core Concepts
+
+### Terrain Classification
+
+Before engagement, MEMOLA® classifies the environment:
+
+**Foundation Terrain** — MEMOLA® applies:
+- Trust compounds over time
+- Legitimacy matters more than speed
+- Failure looks like erosion, not explosion
+
+**Sprint Terrain** — MEMOLA® does not apply:
 - Speed determines survival
-- First-mover wins everything
+- First-mover advantage is everything
 - Network effects are the only moat
 
-**If terrain = Sprint → decline. Self-selection is integrity.**
-
-### 2. The Five Diagnostic Questions
-
-Run these before any build, deployment, or engagement:
+### The Five Diagnostic Questions
 
 1. Can this survive long enough for structure to matter?
 2. Does failure here look like erosion, not explosion?
@@ -119,162 +124,101 @@ Run these before any build, deployment, or engagement:
 4. Will clarity actually change outcomes?
 5. Does this work without going viral?
 
-**Scoring:** 4-5 "yes" = proceed. 2-3 = caution. 0-1 = decline.
+**Scoring:** 4-5 yes = proceed. 2-3 = caution. 0-1 = decline.
 
-### 3. Four-Agent System
+### Foundational Principles
 
-MEMOLA® operates through specialized agents:
+1. Reality before narrative
+2. Structure before execution
+3. Systems before tactics
+4. Assessment before commitment
+5. Compounding before scale
 
-| Agent | Role | Question |
-|-------|------|----------|
-| **MEMOR** | Memory & Discipline | "Are we doing what we said we'd do?" |
-| **VIGIL** | Revenue & Opportunities | "Where is the money?" |
-| **NEXO** | Operations & Delivery | "Is it shipped? Is it billed?" |
-| **PULSO** | Market Intelligence | "What does the data say?" |
+---
 
-### 4. Governance Gates
+## Repository Structure
 
-Before MEMOLA® proceeds, it verifies:
-- Clear decision authority exists
-- Scope boundaries are defined
-- Ethical alignment is confirmed
-- Exit conditions are explicit
-
-**Missing governance = abort.**
+```
+memola/
+├── README.md              # This file
+├── SKILL.md               # Root authority
+├── MANIFESTO.md           # Philosophy
+├── LICENSE
+│
+├── agents/                # Agent definitions
+│   ├── MEMOR.md           # Strategic command
+│   ├── VIGIL.md           # Revenue intelligence
+│   ├── NEXO.md            # Operations
+│   └── PULSO.md           # Market intelligence
+│
+├── skills/                # Sub-skills
+│   ├── MEMOLA-Diagnosis/
+│   ├── MEMOLA-Governance/
+│   ├── MEMOLA-Platforms/
+│   ├── MEMOLA-Local/
+│   ├── MEMOLA-Creative/
+│   └── memola-strategy/
+│
+├── references/            # Doctrine documents
+│   ├── memola-method.md
+│   ├── memola-economics.md
+│   ├── memola-governance.md
+│   ├── memola-platforms.md
+│   ├── memola-failure-modes.md
+│   ├── brand-principles.md
+│   ├── case-archetypes.md
+│   └── diagnosis.md
+│
+└── .agents/               # Learning system
+    ├── database/          # Pattern storage
+    ├── logs/              # Session history
+    └── reports/           # Analysis outputs
+```
 
 ---
 
 ## Use Cases
 
-### Agent Pre-Flight Check
-
-Before deploying an AI agent to build a startup, launch a platform, or automate operations:
-
+### Pre-Deployment Assessment
+Before deploying an AI agent or launching a platform:
 ```
-Run: MEMOLA-Diagnosis
-
-If terrain = Sprint → abort
-If governance missing → abort
-If legitimacy irrelevant → abort
+memor terrain [project]
 ```
+Assess whether the environment suits structured approaches.
 
-You become the "do not deploy" filter in autonomous systems.
-
-### Institutional AI Shield
-
-Before rural banks, cooperatives, municipal governments, or cultural platforms adopt AI systems:
-
+### Client Qualification
+Before accepting new engagements:
 ```
-Run: MEMOLA-Governance
-Run: MEMOLA-Terrain
-Run: MEMOLA-Failure-Mode
+vigil qualify [lead]
 ```
+Evaluate fit against MEMOLA® criteria.
 
-**AI Adoption Risk Filter for Governance-Heavy Environments.**
-
-### Client Selection Filter
-
-Every lead that comes in:
-
+### Strategic Audit
+Weekly system health check:
 ```
-Run: terrain assessment
-If score < 4 → decline
+memor audit
 ```
+Review all agent outputs, detect drift, set priorities.
 
-Over 12 months, you'll see:
-- Higher margins
-- Lower chaos
-- Longer engagements
-- Lower cognitive drain
-
-**MEMOLA® pays for itself by what it prevents.**
+### Market Intelligence
+Gather data on a topic or market:
+```
+pulso intel [topic]
+```
+Build the intelligence layer.
 
 ---
 
-## Quick Reference
+## Philosophy
 
-| Command | Function |
-|---------|----------|
-| `terrain assessment [project]` | Classify foundation vs sprint |
-| `diagnostic questions [project]` | Run the five-question filter |
-| `governance check [project]` | Verify decision authority and boundaries |
-| `failure mode analysis` | Identify decay risks |
-| `memor audit` | Weekly discipline check |
-| `agent army status` | Full system status |
+MEMOLA® was born solving problems for slow-moving institutions in provincial Argentina. The framework values:
 
----
+- **Precision over hype**
+- **Depth over visibility**
+- **Structure over improvisation**
+- **Assessment over assumption**
 
-## The Philosophy
-
-```
-MEMOLA® was not created to "do marketing."
-
-It was created because too much real value
-remains invisible, unstructured, or poorly translated.
-```
-
-### We Believe
-
-- Culture is an asset, not an aesthetic
-- Strategy precedes execution
-- Systems outlive campaigns
-- Growth without structure is decay
-- **Self-selection is integrity, not limitation**
-- **The periphery sees what the center cannot**
-
-### Provincial Origin Is a Feature
-
-MEMOLA® was born in Mercedes, Corrientes — 47km from the Brazilian border.
-
-From the edge, you see what centralized thinking misses.
-You learn patience.
-You understand that survival is local before it is global.
-
-**That's why governance-heavy institutions trust it.**
-
----
-
-## What MEMOLA® Is NOT
-
-Not:
-- Another AI toy
-- Another builder plugin
-- Another productivity enhancer
-- Another agent layer chasing adoption
-
-**It's not about scale. It's about filtration.**
-
----
-
-## The Key Shift
-
-Stop thinking:
-> "How do I grow with this skill?"
-
-Start thinking:
-> "What decisions does this prevent?"
-
----
-
-## Bundled Resources
-
-| File | Purpose |
-|------|---------|
-| `SKILL.md` | Root authority — all doctrine derives from here |
-| `MANIFESTO.md` | Founding beliefs and philosophy |
-| `references/memola-method.md` | Operational framework |
-| `references/memola-economics.md` | Value capture model |
-| `references/memola-governance.md` | Boundary and integrity rules |
-| `references/memola-platforms.md` | Platform viability logic |
-| `references/memola-failure-modes.md` | Known decay patterns |
-| `references/memola-nea.md` | Regional intelligence framework |
-
-**Sub-skills:**
-- `MEMOLA-Diagnosis` — Terrain assessment
-- `MEMOLA-Governance` — Decision authority verification
-- `MEMOLA-Platforms` — Platform viability assessment
-- `MEMOLA-Local` — Regional market strategy
-- `MEMOLA-Creative` — Creative industry strategy
+> "Provincial origin is a feature. From the periphery, you see what centralized thinking misses."
 
 ---
 
@@ -296,13 +240,4 @@ MIT
 Mercedes, Corrientes, Argentina
 Est. 2024
 
-*Provincial origin. Global application.*
-
 ---
-
-```
-The power of MEMOLA® is not what it builds.
-It's what it stops.
-
-That's the moat.
-```

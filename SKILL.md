@@ -359,10 +359,10 @@ MEMOLA work typically fits these recurring patterns:
 - Scalable through systematization
 - Examples: consignatarias, professional associations
 
-### Archetype 3: NGO / Institutional Client
-- Institutional credibility and lead generation
-- **Rule: NEVER monetize referrals from NGO relationships**
-- Strategic positioning, not revenue optimization
+### Archetype 3: Institutional Client
+- Institutional credibility and positioning
+- Long-term relationship building
+- Strategic value over immediate revenue
 
 ### Archetype 4: Pilot / Innovation Client
 - Testing new service models (e.g., RADAR)
@@ -506,12 +506,16 @@ This skill includes the following reference documents:
 - `references/diagnosis.md` — Diagnostic script
 - `references/memola-nea.md` — NEA Argentina regional intelligence
 
+**Agent Team:**
+- `agents/MEMOR.md` — Strategic command (reports to operator)
+- `agents/VIGIL.md` — Revenue intelligence (reports to MEMOR)
+- `agents/NEXO.md` — Operations & delivery (reports to MEMOR)
+- `agents/PULSO.md` — Market intelligence (reports to MEMOR)
+
 **Learning System:**
-- `.agents/FRAMEWORK.md` — Learning architecture
-- `.agents/AGENT_OPINION.md` — Agent perspective
 - `.agents/database/` — Living pattern database
-- `.agents/logs/` — Thinking session history
-- `.agents/reports/` — Research outputs
+- `.agents/logs/` — Session history
+- `.agents/reports/` — Analysis outputs
 
 **Sub-Skills:**
 - `skills/MEMOLA-Creative/` — Creative industry strategy

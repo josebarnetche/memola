@@ -147,42 +147,45 @@ A practice, not a possession.
 
 ---
 
-## The Agent Army
+## The Agent System
 
-In 2026, MEMOLA became an **operating system with four agents**:
+MEMOLA operates through a command hierarchy:
 
 ```
-MEMOR (Memory & Discipline)     — Weekly auditor. Keeps everyone honest.
-  ↕
-VIGIL (Revenue & Opportunities) — Finds money in the network. Runs all day.
-  ↕
-NEXO (Operations & Delivery)    — Ships work, sends invoices, protects revenue.
-  ↕
-PULSO (Market Intelligence)     — Builds the data layer. RADAR evolution path.
+                    ┌─────────────┐
+                    │   MEMOR    │  ← Strategic Command
+                    └──────┬──────┘
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+        ▼                  ▼                  ▼
+     VIGIL              NEXO              PULSO
+    Revenue          Operations          Intel
 ```
 
-Each agent has:
-- A defined role and schedule
-- Clear accountability
-- Tools and triggers
-- Coordination protocols
+| Agent | Role | Core Question |
+|-------|------|---------------|
+| **MEMOR** | Strategic command | "Are we doing what we said?" |
+| **VIGIL** | Revenue intelligence | "Where is the money?" |
+| **NEXO** | Operations & delivery | "Is it shipped? Is it billed?" |
+| **PULSO** | Market intelligence | "What does the data say?" |
 
-MEMOLA is no longer just a framework. It is a **functioning autonomous system**.
+MEMOLA is not just a framework. It is an **operating system**.
 
 ---
 
-## Proof Through Execution
+## Client Archetypes
 
-MEMOLA's doctrine is validated by four client archetypes:
+MEMOLA engages through four patterns:
 
-| Archetype | Purpose | Proof Point |
-|-----------|---------|-------------|
-| **Flagship** | Strategic partnership | Measurable ROI (3:1+ target) |
-| **NGO** | Institutional trust | Lead generation, network access |
-| **Network Node** | Market intelligence | Auction access, industry visibility |
-| **Pilot** | System evolution | Data instrumentation for RADAR |
+| Archetype | Purpose | Value |
+|-----------|---------|-------|
+| **Flagship** | Strategic partnership | Measurable ROI, long-term engagement |
+| **Institutional** | Trust infrastructure | Credibility, network access |
+| **Network Node** | Market intelligence | Industry visibility, data capture |
+| **Pilot** | System evolution | Innovation testing, RADAR development |
 
-These are not case studies. They are **patterns of execution**.
+These are patterns, not case studies.
 
 ---
 

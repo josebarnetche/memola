@@ -127,15 +127,15 @@ This gap creates opportunities for:
 
 ### Sociedad Rural
 
-**Type:** NGO - Agricultural association
+**Type:** Agricultural association
 
 | Function | Value |
 |----------|-------|
-| Networking hub | Access to all regional producers |
-| Annual expositions | Event marketing opportunities |
+| Networking hub | Access to regional producers |
+| Annual expositions | Event opportunities |
 | Producer advocacy | Institutional credibility |
 
-**Critical Rule:** NEVER monetize referrals from NGO relationships
+**Strategic Value:** Institutional presence enables relationships that transactional marketing cannot.
 
 ### INTA Network (Instituto Nacional de Tecnologia Agropecuaria)
 

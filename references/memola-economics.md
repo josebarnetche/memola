@@ -186,22 +186,14 @@ Network Nodes → MEMOLA Intelligence Layer → RADAR Products
 
 ---
 
-## NGO Integrity Rule
+## Institutional Relationships
 
-> **"Never monetize referrals from NGO relationships."**
+MEMOLA values long-term institutional relationships over transactional gains.
 
-MEMOLA maintains relationships with NGOs, cooperatives, and community organizations. These relationships are built on trust, shared values, and genuine service.
-
-**The Rule:**
-- If an NGO refers a potential client, MEMOLA does NOT pay or receive referral fees
-- If MEMOLA learns of an opportunity through NGO work, the NGO is acknowledged, not invoiced
-- Community relationships are never transactional
-
-**Why This Matters:**
-1. **Reputation:** In small regions, integrity travels faster than marketing
-2. **Access:** NGOs provide access that money cannot buy
-3. **Sustainability:** Extractive relationships collapse; genuine ones compound
-4. **Values:** MEMOLA exists to build, not to extract
+**Principles:**
+- Institutional credibility compounds over time
+- Community relationships are strategic assets
+- Trust enables access that marketing cannot buy
 
 ---
 
@@ -259,7 +251,7 @@ Traditional freelancing only captures (Time × Skill). MEMOLA captures all four 
 1. **Structure over time:** Build systems that multiply, not hours that add
 2. **Network over transactions:** Each client strengthens the whole
 3. **Leverage over effort:** Templates, knowledge, and data compound
-4. **Integrity over extraction:** NGO relationships are sacred
+4. **Integrity over extraction:** Build trust, don't mine relationships
 5. **Value over price:** Charge for outcomes, not inputs
 6. **Patience over speed:** Sustainable growth beats explosive collapse
 
