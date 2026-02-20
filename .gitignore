@@ -1,0 +1,19 @@
+# Claude Code local settings
+.claude/settings.local.json
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Logs (keep structure, not content)
+.agents/logs/*.json
+.agents/logs/*.md
+!.agents/logs/.gitkeep

@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2026-01-27",
+    "total_relationships": 24,
+    "last_updated": "2026-01-27"
+  },
+  "relationships": [
+    {
+      "id": "rel-001",
+      "source": "arkestro-2022",
+      "target": "automation-anywhere-2020",
+      "type": "complementary",
+      "strength": 0.7,
+      "evidence": "Both serve enterprise automation; procurement orchestration could leverage RPA for execution",
+      "strategic_implication": "Potential integration or go-to-market partnership"
+    },
+    {
+      "id": "rel-002",
+      "source": "merge-2021",
+      "target": "arkestro-2022",
+      "type": "infrastructure_dependency",
+      "strength": 0.6,
+      "evidence": "Merge's unified API could simplify Arkestro's integration requirements",
+      "strategic_implication": "Developer productivity alignment"
+    },
+    {
+      "id": "rel-003",
+      "source": "coursera-2011",
+      "target": "workera-2021",
+      "type": "complementary",
+      "strength": 0.85,
+      "evidence": "Content delivery + skills assessment form natural stack; shared enterprise market",
+      "strategic_implication": "EdTech stack consolidation opportunity"
+    },
+    {
+      "id": "rel-004",
+      "source": "kira-2021",
+      "target": "coursera-2011",
+      "type": "complementary",
+      "strength": 0.7,
+      "evidence": "AI course creation feeds content platforms",
+      "strategic_implication": "Content supply chain relationship"
+    },
+    {
+      "id": "rel-005",
+      "source": "retrieve-2018",
+      "target": "workera-2021",
+      "type": "competitive",
+      "strength": 0.6,
+      "evidence": "Both address competency assessment; different approaches",
+      "strategic_implication": "Watch for market positioning divergence"
+    },
+    {
+      "id": "rel-006",
+      "source": "juvo-2017",
+      "target": "brale-2022",
+      "type": "complementary",
+      "strength": 0.75,
+      "evidence": "Identity creation + regulatory infrastructure for financial inclusion",
+      "strategic_implication": "Financial inclusion infrastructure stack"
+    },
+    {
+      "id": "rel-007",
+      "source": "pf-2021",
+      "target": "brale-2022",
+      "type": "complementary",
+      "strength": 0.7,
+      "evidence": "SMB lending + regulatory compliance infrastructure",
+      "strategic_implication": "Community banking modernization stack"
+    },
+    {
+      "id": "rel-008",
+      "source": "enigma-2015",
+      "target": "juvo-2017",
+      "type": "complementary",
+      "strength": 0.65,
+      "evidence": "Business data intelligence + alternative credit scoring",
+      "strategic_implication": "Data infrastructure for underserved markets"
+    },
+    {
+      "id": "rel-009",
+      "source": "transfix-2016",
+      "target": "bliq-2022",
+      "type": "ecosystem_adjacent",
+      "strength": 0.5,
+      "evidence": "Logistics marketplace + gig worker tools; shared transport ecosystem",
+      "strategic_implication": "Logistics workforce infrastructure"
+    },
+    {
+      "id": "rel-010",
+      "source": "patreon-2020",
+      "target": "inkitt-2021",
+      "type": "complementary",
+      "strength": 0.7,
+      "evidence": "Creator monetization + content discovery; talent-to-audience pipeline",
+      "strategic_implication": "Creator economy value chain"
+    },
+    {
+      "id": "rel-011",
+      "source": "pulumi-2020",
+      "target": "merge-2021",
+      "type": "ecosystem_adjacent",
+      "strength": 0.55,
+      "evidence": "Infrastructure provisioning + API integration; developer tooling ecosystem",
+      "strategic_implication": "Developer productivity stack"
+    },
+    {
+      "id": "rel-012",
+      "source": "vast-data-2023",
+      "target": "world-labs-2024",
+      "type": "infrastructure_dependency",
+      "strength": 0.7,
+      "evidence": "AI data infrastructure + foundation model development",
+      "strategic_implication": "AI infrastructure stack dependency"
+    },
+    {
+      "id": "rel-013",
+      "source": "uniphore-2022",
+      "target": "automation-anywhere-2020",
+      "type": "competitive",
+      "strength": 0.6,
+      "evidence": "Both serve enterprise automation with AI; overlapping use cases",
+      "strategic_implication": "Enterprise AI automation competition"
+    },
+    {
+      "id": "rel-014",
+      "source": "veza-2025",
+      "target": "chaos-2025",
+      "type": "ecosystem_adjacent",
+      "strength": 0.5,
+      "evidence": "Identity security + defense tech; shared security-first positioning",
+      "strategic_implication": "Security infrastructure sector emergence"
+    },
+    {
+      "id": "rel-015",
+      "source": "tuya-2014",
+      "target": "sentons-2011",
+      "type": "complementary",
+      "strength": 0.6,
+      "evidence": "IoT platform + HMI technology; device ecosystem integration",
+      "strategic_implication": "Smart device technology stack"
+    },
+    {
+      "id": "rel-016",
+      "source": "branch-2014",
+      "target": "tuya-2014",
+      "type": "ecosystem_adjacent",
+      "strength": 0.45,
+      "evidence": "Mobile attribution + IoT ecosystem; user journey across devices",
+      "strategic_implication": "Cross-device user intelligence"
+    },
+    {
+      "id": "rel-017",
+      "source": "goodleap-2019",
+      "target": "one-concern-2017",
+      "type": "complementary",
+      "strength": 0.55,
+      "evidence": "Climate financing + resilience intelligence; sustainable infrastructure",
+      "strategic_implication": "Climate adaptation value chain"
+    },
+    {
+      "id": "rel-018",
+      "source": "enigma-2015",
+      "target": "vast-data-2023",
+      "type": "complementary",
+      "strength": 0.65,
+      "evidence": "Data intelligence + data infrastructure; foundational data stack",
+      "strategic_implication": "Enterprise data intelligence infrastructure"
+    },
+    {
+      "id": "rel-019",
+      "source": "mashgin-2022",
+      "target": "tuya-2014",
+      "type": "ecosystem_adjacent",
+      "strength": 0.4,
+      "evidence": "Retail AI hardware + IoT platform; physical commerce tech",
+      "strategic_implication": "Smart retail ecosystem"
+    },
+    {
+      "id": "rel-020",
+      "source": "alfred-2014",
+      "target": "transfix-2016",
+      "type": "ecosystem_adjacent",
+      "strength": 0.35,
+      "evidence": "Service aggregation models in adjacent verticals",
+      "strategic_implication": "Aggregation pattern learning"
+    },
+    {
+      "id": "rel-021",
+      "source": "uniphore-2022",
+      "target": "merge-2021",
+      "type": "infrastructure_dependency",
+      "strength": 0.55,
+      "evidence": "Enterprise AI requires integrations; Merge enables connectivity",
+      "strategic_implication": "AI agent integration infrastructure"
+    },
+    {
+      "id": "rel-022",
+      "source": "workera-2021",
+      "target": "automation-anywhere-2020",
+      "type": "complementary",
+      "strength": 0.6,
+      "evidence": "Skills assessment + automation deployment; workforce transformation stack",
+      "strategic_implication": "Enterprise workforce evolution"
+    },
+    {
+      "id": "rel-023",
+      "source": "pulumi-2020",
+      "target": "veza-2025",
+      "type": "complementary",
+      "strength": 0.6,
+      "evidence": "Infrastructure provisioning + authorization management; secure infrastructure stack",
+      "strategic_implication": "Cloud security infrastructure"
+    },
+    {
+      "id": "rel-024",
+      "source": "bliq-2022",
+      "target": "juvo-2017",
+      "type": "complementary",
+      "strength": 0.5,
+      "evidence": "Gig worker tools + financial identity; underserved population infrastructure",
+      "strategic_implication": "Worker financial infrastructure"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "cluster-edtech",
+      "name": "EdTech Stack",
+      "entities": ["coursera-2011", "workera-2021", "kira-2021", "retrieve-2018"],
+      "defining_attributes": {
+        "sectors": ["edtech", "enterprise"],
+        "technology_layer": ["AI", "application"],
+        "value_mechanism": "Skills development and verification"
+      },
+      "internal_dynamics": "complementary",
+      "platform_potential": 0.85,
+      "strategic_themes": ["Skills verification as value layer", "AI-assisted learning", "Enterprise adoption"]
+    },
+    {
+      "cluster_id": "cluster-fintech-infra",
+      "name": "Financial Infrastructure",
+      "entities": ["juvo-2017", "brale-2022", "pf-2021", "goodleap-2019"],
+      "defining_attributes": {
+        "sectors": ["fintech", "infrastructure"],
+        "technology_layer": ["infrastructure", "application"],
+        "value_mechanism": "Financial access enablement"
+      },
+      "internal_dynamics": "complementary",
+      "platform_potential": 0.8,
+      "strategic_themes": ["Financial inclusion", "Regulatory navigation", "SMB/consumer lending"]
+    },
+    {
+      "cluster_id": "cluster-enterprise-ai",
+      "name": "Enterprise AI Automation",
+      "entities": ["automation-anywhere-2020", "uniphore-2022", "arkestro-2022"],
+      "defining_attributes": {
+        "sectors": ["enterprise", "AI"],
+        "technology_layer": ["AI", "application"],
+        "value_mechanism": "Business process optimization"
+      },
+      "internal_dynamics": "competitive",
+      "platform_potential": 0.85,
+      "strategic_themes": ["AI agents for enterprise", "Process automation evolution", "ROI attribution"]
+    },
+    {
+      "cluster_id": "cluster-data-infra",
+      "name": "Data Infrastructure",
+      "entities": ["enigma-2015", "vast-data-2023", "merge-2021"],
+      "defining_attributes": {
+        "sectors": ["data", "infrastructure"],
+        "technology_layer": ["infrastructure"],
+        "value_mechanism": "Data management and connectivity"
+      },
+      "internal_dynamics": "complementary",
+      "platform_potential": 0.9,
+      "strategic_themes": ["AI-ready data", "Integration complexity", "Business data intelligence"]
+    },
+    {
+      "cluster_id": "cluster-creator",
+      "name": "Creator Economy",
+      "entities": ["patreon-2020", "inkitt-2021"],
+      "defining_attributes": {
+        "sectors": ["creator-economy", "media"],
+        "technology_layer": ["application"],
+        "value_mechanism": "Creator monetization and discovery"
+      },
+      "internal_dynamics": "complementary",
+      "platform_potential": 0.8,
+      "strategic_themes": ["Creator business infrastructure", "Talent discovery", "Direct monetization"]
+    }
+  ]
+}
