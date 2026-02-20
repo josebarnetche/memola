@@ -35,9 +35,11 @@ else
         git clone "${REPO_URL}" /tmp/memola
     fi
 
-    # Copy core skill and references
+    # Copy core skill, agents, and references
     mkdir -p "${SKILLS_DIR}/memola"
     cp /tmp/memola/SKILL.md "${SKILLS_DIR}/memola/"
+    cp /tmp/memola/MANIFESTO.md "${SKILLS_DIR}/memola/"
+    cp -r /tmp/memola/agents "${SKILLS_DIR}/memola/"
     cp -r /tmp/memola/references "${SKILLS_DIR}/memola/"
 
     echo "✓ Core MEMOLA skill installed to ${SKILLS_DIR}/memola"

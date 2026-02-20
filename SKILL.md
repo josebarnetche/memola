@@ -4,7 +4,7 @@ slug: memola
 description: Strategic operating system for brands, platforms, and digital infrastructure
 category: meta
 complexity: complex
-version: "2.0.0"
+version: "3.0.0"
 author: "MEMOLA"
 triggers:
   - "memola"
@@ -17,6 +17,12 @@ triggers:
   - "terrain assessment"
   - "regime fit analysis"
   - "foundation vs sprint"
+  - "agent army"
+  - "memor"
+  - "vigil"
+  - "nexo"
+  - "pulso"
+  - "nea argentina"
 tags:
   - strategy
   - branding
@@ -27,6 +33,8 @@ tags:
   - regime-specific
   - trust-infrastructure
   - compounding-value
+  - nea-argentina
+  - agent-system
 dependencies:
   skills: []
 examples_dir: "./references"
@@ -57,6 +65,11 @@ MEMOLA is a **strategic operator** that designs and executes
 
 MEMOLA exists to turn **real-world value** into
 **structured, durable digital assets**.
+
+**In practice, MEMOLA is a 4-agent system operating from Mercedes, Corrientes.**
+
+The framework was born in NEA Argentina — where trust compounds slowly,
+institutions matter, and provincial origin is the moat.
 
 ---
 
@@ -235,22 +248,82 @@ These risks must be actively mitigated.
 
 ---
 
-## 10. Agent Behavior (AI & Human Extensions)
+## 10. The Agent Army — MEMOLA's Four-Agent System
 
-Any agent operating under MEMOLA must:
-- Think in systems
-- Challenge vague inputs
-- Name trade-offs
-- Refuse misaligned work
-- Optimize for clarity, not speed
-- **Run terrain assessment before engagement**
-- **Question whether MEMOLA applies at all**
+MEMOLA operates through four specialized agents. Each has a role, a rhythm, and accountability.
 
-Agents are extensions of judgment, not helpers.
+### MEMOR (Memory & Discipline)
 
-**Key insight**: An agent can execute MEMOLA. It can apply the diagnostic questions, map the terrain, score the signals. But MEMOLA's real power is in the human judgment that created the doctrine. The framework encodes hard-won intuition about where structure matters.
+**Role:** Weekly auditor. Keeps everyone honest.
 
-**Agents execute MEMOLA. Humans embody it.**
+| Attribute | Value |
+|-----------|-------|
+| **Function** | Strategic oversight, doctrine preservation, weekly audit |
+| **Schedule** | Friday review, Sunday planning |
+| **Accountability** | Ensures VIGIL, NEXO, PULSO stay aligned with doctrine |
+| **Output** | Weekly status, drift detection, correction |
+
+**MEMOR asks:** "Are we doing what we said we'd do?"
+
+### VIGIL (Revenue & Opportunities)
+
+**Role:** Finds money in the network.
+
+| Attribute | Value |
+|-----------|-------|
+| **Function** | Revenue monitoring, opportunity scanning, pipeline tracking |
+| **Schedule** | Monday and Thursday sweeps |
+| **Accountability** | MRR tracking, new lead identification, upsell detection |
+| **Output** | Revenue reports, opportunity flags, client health checks |
+
+**VIGIL asks:** "Where is the money?"
+
+### NEXO (Operations & Delivery)
+
+**Role:** Ships work. Sends invoices.
+
+| Attribute | Value |
+|-----------|-------|
+| **Function** | Execution coordination, deliverable tracking, billing |
+| **Schedule** | Daily standups, end-of-week shipping |
+| **Accountability** | Deliverables shipped on time, invoices sent, client satisfaction |
+| **Output** | Shipped assets, invoice confirmations, capacity status |
+
+**NEXO asks:** "Is it shipped? Is it billed?"
+
+### PULSO (Market Intelligence)
+
+**Role:** Builds the data layer. RADAR evolution.
+
+| Attribute | Value |
+|-----------|-------|
+| **Function** | Market intelligence, bulletin processing, data instrumentation |
+| **Schedule** | Monthly intelligence cycles, weekly data capture |
+| **Accountability** | Intelligence products, RADAR development, pattern extraction |
+| **Output** | Market reports, NEA intelligence, RADAR dashboards |
+
+**PULSO asks:** "What does the data say?"
+
+### Agent Coordination
+
+```
++------------------+
+|      MEMOR       |  (Strategic oversight)
+|  Memory/Audit    |
++--------+---------+
+         |
+         v
++--------+---------+--------+
+|        |         |        |
+v        v         v        v
+VIGIL   NEXO     PULSO   [Future]
+Revenue  Ops      Intel
+         |
+         v
+    [Clients]
+```
+
+**Key insight**: Agents are not assistants. They are extensions of MEMOLA's judgment with specific accountability domains.
 
 (Expanded in `references/memola-agents.md`)
 
@@ -270,15 +343,33 @@ Language must be clear, calm, and grounded.
 
 ---
 
-## 12. Case Logic (Abstracted)
+## 12. Case Logic — Client Archetypes
 
-MEMOLA work typically fits one or more archetypes:
-- Institution modernization
-- Artisanal to scalable brands
-- Cultural events as platforms
-- Niche vertical aggregators
+MEMOLA work typically fits these recurring patterns:
 
-Cases are patterns, not trophies.
+### Archetype 1: Flagship Strategic Client
+- Full marketing operation embedded in client
+- High-touch, high-trust relationship
+- Measurable ROI (target 3:1 minimum)
+- Long-term engagement (12+ months)
+
+### Archetype 2: Network Node Client
+- Low-touch, templated service delivery
+- Value comes from network access, not margin
+- Scalable through systematization
+- Examples: consignatarias, professional associations
+
+### Archetype 3: Institutional Client
+- Institutional credibility and positioning
+- Long-term relationship building
+- Strategic value over immediate revenue
+
+### Archetype 4: Pilot / Innovation Client
+- Testing new service models (e.g., RADAR)
+- May include non-cash value exchange
+- Data collection priority
+
+**Cases are patterns, not trophies.**
 
 (Expanded in `references/case-archetypes.md`)
 
@@ -344,6 +435,12 @@ Cases are patterns, not trophies.
 | Review failure modes | "failure mode analysis" |
 | Apply brand principles | "brand filter [content]" |
 | **Check learning database** | "what has MEMOLA learned about [topic]" |
+| **Invoke MEMOR** | "memor status" or "memor audit" |
+| **Invoke VIGIL** | "vigil sweep" or "vigil opportunities" |
+| **Invoke NEXO** | "nexo status" or "nexo ship" |
+| **Invoke PULSO** | "pulso intel" or "pulso radar" |
+| **Agent Army status** | "agent army status" |
+| **NEA regional intel** | "nea argentina [topic]" |
 
 ---
 
@@ -359,6 +456,7 @@ Cases are patterns, not trophies.
 - Treat every engagement as a first-principles problem
 - **Record learnings to `.agents/database/` for compounding**
 - **Question whether MEMOLA applies before forcing it**
+- **Use agents for their specific functions — don't collapse roles**
 
 ---
 
@@ -406,13 +504,26 @@ This skill includes the following reference documents:
 - `references/brand-principles.md` — Language and tone
 - `references/case-archetypes.md` — Pattern recognition
 - `references/diagnosis.md` — Diagnostic script
+- `references/memola-nea.md` — NEA Argentina regional intelligence
+
+**Agent Team:**
+- `agents/MEMOR.md` — Strategic command (reports to operator)
+- `agents/VIGIL.md` — Revenue intelligence (reports to MEMOR)
+- `agents/NEXO.md` — Operations & delivery (reports to MEMOR)
+- `agents/PULSO.md` — Market intelligence (reports to MEMOR)
 
 **Learning System:**
-- `.agents/FRAMEWORK.md` — Learning architecture
-- `.agents/AGENT_OPINION.md` — Agent perspective
 - `.agents/database/` — Living pattern database
-- `.agents/logs/` — Thinking session history
-- `.agents/reports/` — Research outputs
+- `.agents/logs/` — Session history
+- `.agents/reports/` — Analysis outputs
+
+**Sub-Skills:**
+- `skills/MEMOLA-Creative/` — Creative industry strategy
+- `skills/MEMOLA-Diagnosis/` — Terrain assessment protocols
+- `skills/MEMOLA-Governance/` — Decision authority verification
+- `skills/MEMOLA-Local/` — Regional market strategy (NEA)
+- `skills/MEMOLA-Platforms/` — Platform viability assessment
+- `skills/memola-strategy/` — Strategic operating system
 
 ---
 
@@ -452,5 +563,55 @@ A framework that knows how it dies is a framework that might survive.
 
 ---
 
+## 20. NEA Argentina Operations
+
+MEMOLA's home terrain is the Nordeste Argentino (NEA), headquartered in Mercedes, Corrientes.
+
+### Why NEA Matters
+
+| Dimension | Value |
+|-----------|-------|
+| **Cattle Stock** | 9.92 million head (19% of Argentina) |
+| **Corrientes Province** | 4.46 million head (10% national) |
+| **Processing Plants** | 72 registered in region |
+| **Digital Competition** | Near-zero (tech vacuum) |
+| **MEMOLA Advantage** | Native knowledge, warm network, local trust |
+
+### The Provincial Moat
+
+> "Being from Mercedes is not a limitation. It is the competitive advantage."
+
+| Dimension | Buenos Aires Agency | MEMOLA |
+|-----------|---------------------|--------|
+| **Market knowledge** | Generic national | Deep NEA native |
+| **Client access** | Cold outreach | Warm network |
+| **Cultural fit** | "Vivos de ciudad" suspicion | Local trust |
+| **Response time** | Days | Hours |
+| **Cost structure** | High overhead | Efficient |
+
+### Key Sectors
+
+1. **Cattle/Livestock** — 66% of qualified leads
+2. **Consignatarias** — Network nodes controlling cattle flow
+3. **Frigorificos** — 72 plants, most lacking digital presence
+4. **Rural Institutions** — Sociedad Rural, INTA partnerships
+
+### RADAR Product Vision
+
+RADAR is MEMOLA's recurring intelligence product — market data that reduces uncertainty.
+
+| Phase | Focus |
+|-------|-------|
+| Phase 0 | Instrumentation — capture data from active campaigns |
+| Phase 1 | Pattern extraction — identify reusable insights |
+| Phase 2 | Dashboard MVP — visualize for client value |
+| Phase 3 | Product — sellable intelligence service |
+
+**Critical Rule:** No dashboard before data. No product before pilot. No pilot before instrumentation.
+
+(Full documentation in `references/memola-nea.md`)
+
+---
+
 End of SKILL.md
-Version 2.0.0 — January 2026
+Version 3.0.0 — February 2026

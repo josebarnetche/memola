@@ -147,19 +147,75 @@ A practice, not a possession.
 
 ---
 
+## The Agent System
+
+MEMOLA operates through a command hierarchy:
+
+```
+                    ┌─────────────┐
+                    │   MEMOR    │  ← Strategic Command
+                    └──────┬──────┘
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+        ▼                  ▼                  ▼
+     VIGIL              NEXO              PULSO
+    Revenue          Operations          Intel
+```
+
+| Agent | Role | Core Question |
+|-------|------|---------------|
+| **MEMOR** | Strategic command | "Are we doing what we said?" |
+| **VIGIL** | Revenue intelligence | "Where is the money?" |
+| **NEXO** | Operations & delivery | "Is it shipped? Is it billed?" |
+| **PULSO** | Market intelligence | "What does the data say?" |
+
+MEMOLA is not just a framework. It is an **operating system**.
+
+---
+
+## Client Archetypes
+
+MEMOLA engages through four patterns:
+
+| Archetype | Purpose | Value |
+|-----------|---------|-------|
+| **Flagship** | Strategic partnership | Measurable ROI, long-term engagement |
+| **Institutional** | Trust infrastructure | Credibility, network access |
+| **Network Node** | Market intelligence | Industry visibility, data capture |
+| **Pilot** | System evolution | Innovation testing, RADAR development |
+
+These are patterns, not case studies.
+
+---
+
 ## The Learning System
 
 MEMOLA learns. It evolves. It questions itself.
 
-The `.agents/` directory contains the living intelligence:
-- Patterns discovered across engagements
-- Learnings extracted from practice
-- Doubts that sharpen the doctrine
-- Ideas that extend its reach
+The agents maintain living intelligence:
+- PULSO captures market data from IPCVA, MAGyP, Boletines Oficiales
+- NEXO documents delivery patterns and SOPs
+- VIGIL tracks revenue opportunities and network flows
+- MEMOR audits weekly and challenges assumptions
 
 MEMOLA is not static. It compounds.
 
 ---
 
+## NEA Argentina: The Home Terrain
+
+MEMOLA operates from **Mercedes, Corrientes** — 47km from the Brazilian border.
+
+This is foundation terrain:
+- 9.92 million cattle head (19% of Argentina)
+- Institutional trust matters more than viral growth
+- Local presence is the competitive moat
+- Buenos Aires agencies can't compete here
+
+**From the periphery, we see what the center cannot.**
+
+---
+
 End of MANIFESTO.md
-Version 2.0.0 — January 2026
+Version 3.0.0 — February 2026

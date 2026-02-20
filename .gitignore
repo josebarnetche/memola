@@ -1,13 +1,10 @@
-# Claude Code local settings
-.claude/settings.local.json
+# Secrets
+Creds/
+secret.txt
+api public.txt
+*.csv
 
-# OS files
+# System
 .DS_Store
-Thumbs.db
-
-# Editor
 *.swp
-*.swo
-*~
-.idea/
-.vscode/
+.claude/
