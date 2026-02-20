@@ -1,0 +1,797 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2026-01-27",
+    "last_learning_cycle": "2026-01-27",
+    "total_entities": 28,
+    "doctrine_version": "MEMOLA-1.0"
+  },
+  "entities": [
+    {
+      "id": "alfred-2014",
+      "name": "Alfred",
+      "type": "company",
+      "status": "private",
+      "founded": "2014",
+      "core_function": "Concierge service managing weekly personal needs via third-party vendors",
+      "value_mechanism": "Aggregation of fragmented personal services; convenience layer",
+      "market_position": "niche",
+      "technology_layer": ["application"],
+      "sector_tags": ["consumer", "services", "logistics"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.7,
+        "compounding_capacity": 0.5,
+        "governance_alignment": 0.6,
+        "execution_risk": 0.5
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Vendor dependency", "Service quality variance", "Geographic scaling friction"],
+        "invisible_value": "Customer preference data across service categories",
+        "friction_points": ["Manual coordination", "Trust establishment with new vendors"],
+        "platform_evolution": "Could become SMB vendor management infrastructure"
+      },
+      "relationships": ["transfix-2016"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "arkestro-2022",
+      "name": "Arkestro",
+      "type": "company",
+      "status": "private",
+      "founded": "2022",
+      "core_function": "Predictive Procurement Orchestration platform for enterprise purchasing optimization",
+      "value_mechanism": "AI-driven cost savings through procurement cycle optimization; 2-5x lift claim",
+      "market_position": "emerging",
+      "technology_layer": ["AI", "application"],
+      "sector_tags": ["enterprise", "procurement", "B2B"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.85,
+        "compounding_capacity": 0.8,
+        "governance_alignment": 0.7,
+        "execution_risk": 0.4
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Enterprise sales cycle length", "Integration complexity", "Proving ROI attribution"],
+        "invisible_value": "Procurement pattern data across industries; pricing intelligence",
+        "friction_points": ["Legacy ERP integration", "Change management in procurement teams"],
+        "platform_evolution": "Could become procurement data marketplace or benchmark service"
+      },
+      "relationships": ["automation-anywhere-2020", "merge-2021"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "automation-anywhere-2020",
+      "name": "Automation Anywhere",
+      "type": "company",
+      "status": "private",
+      "founded": "2020",
+      "core_function": "Robotic Process Automation platform for business process management",
+      "value_mechanism": "Labor cost reduction through digital workforce; error rate minimization",
+      "market_position": "growth",
+      "technology_layer": ["AI", "infrastructure", "application"],
+      "sector_tags": ["enterprise", "automation", "B2B"],
+      "archetype_match": "institution",
+      "memola_signals": {
+        "platform_potential": 0.9,
+        "compounding_capacity": 0.85,
+        "governance_alignment": 0.75,
+        "execution_risk": 0.3
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Commoditization pressure from AI natives", "Bot maintenance overhead", "Change resistance"],
+        "invisible_value": "Process intelligence across thousands of enterprises; workflow patterns",
+        "friction_points": ["Implementation complexity", "Bot governance", "Security concerns"],
+        "platform_evolution": "Already platform; evolution toward AI-native process intelligence"
+      },
+      "relationships": ["arkestro-2022", "workera-2021"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "bliq-2022",
+      "name": "Bliq",
+      "type": "company",
+      "status": "private",
+      "founded": "2022",
+      "core_function": "Workflow management for gig workers across multiple transport platforms",
+      "value_mechanism": "Income optimization through multi-platform job coordination",
+      "market_position": "niche",
+      "technology_layer": ["application"],
+      "sector_tags": ["gig-economy", "logistics", "consumer"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.6,
+        "compounding_capacity": 0.55,
+        "governance_alignment": 0.5,
+        "execution_risk": 0.6
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Platform API dependency", "Regulatory uncertainty in gig classification", "Low switching costs"],
+        "invisible_value": "Cross-platform earning data; market rate intelligence",
+        "friction_points": ["Platform policy changes", "Worker churn"],
+        "platform_evolution": "Could become gig worker financial services gateway"
+      },
+      "relationships": ["juvo-2017", "branch-2014"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "brale-2022",
+      "name": "Brale",
+      "type": "company",
+      "status": "private",
+      "founded": "2022",
+      "core_function": "Financial infrastructure enabling innovations within existing regulatory frameworks",
+      "value_mechanism": "Regulatory compliance as enablement layer; bridge between innovation and compliance",
+      "market_position": "emerging",
+      "technology_layer": ["infrastructure", "protocol"],
+      "sector_tags": ["fintech", "infrastructure", "compliance"],
+      "archetype_match": "institution",
+      "memola_signals": {
+        "platform_potential": 0.75,
+        "compounding_capacity": 0.7,
+        "governance_alignment": 0.85,
+        "execution_risk": 0.45
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Regulatory evolution speed", "Trust building with both innovators and regulators"],
+        "invisible_value": "Regulatory intelligence; compliance pattern library",
+        "friction_points": ["Jurisdictional complexity", "Slow enterprise adoption cycles"],
+        "platform_evolution": "Could become compliance-as-a-service infrastructure layer"
+      },
+      "relationships": ["pf-2021", "juvo-2017"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "branch-2014",
+      "name": "Branch",
+      "type": "company",
+      "status": "private",
+      "founded": "2014",
+      "core_function": "Deep linking platform for mobile app growth, attribution, and analytics",
+      "value_mechanism": "Attribution accuracy enables marketing spend optimization; growth infrastructure",
+      "market_position": "growth",
+      "technology_layer": ["infrastructure", "application"],
+      "sector_tags": ["mobile", "martech", "analytics"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.8,
+        "compounding_capacity": 0.75,
+        "governance_alignment": 0.7,
+        "execution_risk": 0.35
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Privacy regulation impact on attribution", "Platform policy dependencies (Apple, Google)"],
+        "invisible_value": "Cross-app user journey data; growth pattern intelligence",
+        "friction_points": ["iOS privacy changes", "Fragmented Android ecosystem"],
+        "platform_evolution": "Already platform; evolving toward privacy-first measurement"
+      },
+      "relationships": ["bliq-2022", "tuya-2014"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "chaos-2025",
+      "name": "CHAOS Industries",
+      "type": "company",
+      "status": "private",
+      "founded": "2025",
+      "core_function": "Next-generation defense and critical infrastructure technology development",
+      "value_mechanism": "Strategic technology development for defense applications",
+      "market_position": "emerging",
+      "technology_layer": ["AI", "infrastructure"],
+      "sector_tags": ["defense", "critical-infrastructure", "government"],
+      "archetype_match": "institution",
+      "memola_signals": {
+        "platform_potential": 0.6,
+        "compounding_capacity": 0.7,
+        "governance_alignment": 0.9,
+        "execution_risk": 0.5
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Long government procurement cycles", "Security clearance dependencies", "Talent competition"],
+        "invisible_value": "Classified capability development; trust relationships with defense agencies",
+        "friction_points": ["ITAR compliance", "Classified work compartmentalization"],
+        "platform_evolution": "Infrastructure provider to defense ecosystem"
+      },
+      "relationships": ["veza-2025", "one-concern-2017"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "coursera-2011",
+      "name": "Coursera",
+      "type": "company",
+      "status": "public",
+      "stock_symbol": "NYSE: COUR",
+      "founded": "2011",
+      "core_function": "Online education platform partnering with universities",
+      "value_mechanism": "Content aggregation from institutions; credential value; enterprise training",
+      "market_position": "growth",
+      "technology_layer": ["application"],
+      "sector_tags": ["edtech", "enterprise", "consumer"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.95,
+        "compounding_capacity": 0.85,
+        "governance_alignment": 0.8,
+        "execution_risk": 0.25
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Completion rates", "Credential recognition", "University partnership economics"],
+        "invisible_value": "Learning behavior data; skill gap mapping; enterprise training intelligence",
+        "friction_points": ["Content quality variance", "Engagement decay"],
+        "platform_evolution": "Already platform; expanding into enterprise skills management"
+      },
+      "relationships": ["workera-2021", "kira-2021", "retrieve-2018"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "enigma-2015",
+      "name": "Enigma",
+      "type": "company",
+      "status": "private",
+      "founded": "2015",
+      "core_function": "Operational data management and intelligence; data contextualization",
+      "value_mechanism": "Data enrichment and connection to real-world context; actionable intelligence",
+      "market_position": "growth",
+      "technology_layer": ["AI", "infrastructure"],
+      "sector_tags": ["data", "enterprise", "fintech"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.85,
+        "compounding_capacity": 0.9,
+        "governance_alignment": 0.75,
+        "execution_risk": 0.35
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Data source dependencies", "Privacy regulations", "Enterprise integration complexity"],
+        "invisible_value": "Entity resolution capabilities; cross-dataset linkage intelligence",
+        "friction_points": ["Data quality variance", "Compliance requirements"],
+        "platform_evolution": "Could become foundational business identity layer"
+      },
+      "relationships": ["vast-data-2023", "uniphore-2022"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "goodleap-2019",
+      "name": "GoodLeap",
+      "type": "company",
+      "status": "private",
+      "founded": "2019",
+      "core_function": "Residential solar loans and home mortgages for climate impact",
+      "value_mechanism": "Financing as climate action enablement; contractor network effects",
+      "market_position": "growth",
+      "technology_layer": ["application"],
+      "sector_tags": ["fintech", "climate", "consumer"],
+      "archetype_match": "artisanal",
+      "memola_signals": {
+        "platform_potential": 0.7,
+        "compounding_capacity": 0.65,
+        "governance_alignment": 0.8,
+        "execution_risk": 0.45
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Interest rate sensitivity", "Contractor quality variance", "Policy dependency (solar incentives)"],
+        "invisible_value": "Homeowner energy transition data; contractor performance intelligence",
+        "friction_points": ["Underwriting complexity for new asset types", "Solar market cyclicality"],
+        "platform_evolution": "Could become home sustainability financing platform"
+      },
+      "relationships": ["pf-2021", "brale-2022"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "inkitt-2021",
+      "name": "Inkitt",
+      "type": "company",
+      "status": "private",
+      "founded": "2021",
+      "core_function": "Data-powered content house discovering and developing hidden writing talent",
+      "value_mechanism": "Talent identification via reader engagement data; content monetization",
+      "market_position": "growth",
+      "technology_layer": ["AI", "application"],
+      "sector_tags": ["media", "content", "consumer"],
+      "archetype_match": "artisanal",
+      "memola_signals": {
+        "platform_potential": 0.8,
+        "compounding_capacity": 0.75,
+        "governance_alignment": 0.65,
+        "execution_risk": 0.4
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Hit dependency", "Author retention", "Platform competition for attention"],
+        "invisible_value": "Reading behavior predictive models; content success patterns",
+        "friction_points": ["Content discovery at scale", "Monetization path clarity"],
+        "platform_evolution": "Could become AI-assisted content development infrastructure"
+      },
+      "relationships": ["patreon-2020", "coursera-2011"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "juvo-2017",
+      "name": "Juvo",
+      "type": "company",
+      "status": "private",
+      "founded": "2017",
+      "core_function": "Financial identity creation for unbanked mobile subscribers via identity scoring",
+      "value_mechanism": "Financial inclusion through mobile data; identity as infrastructure",
+      "market_position": "niche",
+      "technology_layer": ["AI", "infrastructure"],
+      "sector_tags": ["fintech", "emerging-markets", "identity"],
+      "archetype_match": "institution",
+      "memola_signals": {
+        "platform_potential": 0.85,
+        "compounding_capacity": 0.8,
+        "governance_alignment": 0.7,
+        "execution_risk": 0.5
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Telco partnership dependency", "Regulatory variance across markets", "Fraud risk"],
+        "invisible_value": "Alternative credit scoring models; emerging market behavior data",
+        "friction_points": ["Infrastructure limitations in target markets", "Trust building"],
+        "platform_evolution": "Could become foundational identity layer for emerging market financial services"
+      },
+      "relationships": ["brale-2022", "bliq-2022", "enigma-2015"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "kira-2021",
+      "name": "Kira",
+      "type": "company",
+      "status": "private",
+      "founded": "2021",
+      "core_function": "AI-powered platform for educators to build and deliver courses with intelligent agents",
+      "value_mechanism": "Educator productivity multiplication; personalized student support at scale",
+      "market_position": "emerging",
+      "technology_layer": ["AI", "application"],
+      "sector_tags": ["edtech", "AI", "B2B"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.75,
+        "compounding_capacity": 0.7,
+        "governance_alignment": 0.7,
+        "execution_risk": 0.45
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Educator adoption friction", "AI accuracy in educational context", "Institutional sales cycles"],
+        "invisible_value": "Effective teaching pattern recognition; content-to-outcome correlation data",
+        "friction_points": ["Change management in education", "Quality assurance for AI-generated content"],
+        "platform_evolution": "Could become educator productivity infrastructure"
+      },
+      "relationships": ["coursera-2011", "workera-2021", "retrieve-2018"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "mashgin-2022",
+      "name": "Mashgin",
+      "type": "company",
+      "status": "private",
+      "founded": "2022",
+      "core_function": "AI-powered self-checkout system using computer vision",
+      "value_mechanism": "Checkout speed as competitive advantage; labor cost reduction",
+      "market_position": "emerging",
+      "technology_layer": ["AI", "application"],
+      "sector_tags": ["retail", "AI", "hardware"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.7,
+        "compounding_capacity": 0.65,
+        "governance_alignment": 0.65,
+        "execution_risk": 0.5
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Hardware deployment costs", "SKU recognition accuracy", "Integration with existing POS"],
+        "invisible_value": "Product recognition models; shopping behavior data",
+        "friction_points": ["Theft prevention", "Edge cases in product recognition"],
+        "platform_evolution": "Could expand into broader retail intelligence platform"
+      },
+      "relationships": ["automation-anywhere-2020", "tuya-2014"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "merge-2021",
+      "name": "Merge",
+      "type": "company",
+      "status": "private",
+      "founded": "2021",
+      "core_function": "Unified API platform for software integrations across categories",
+      "value_mechanism": "Integration complexity reduction; developer time savings; future-proofing",
+      "market_position": "growth",
+      "technology_layer": ["infrastructure"],
+      "sector_tags": ["enterprise", "infrastructure", "developer-tools"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.9,
+        "compounding_capacity": 0.85,
+        "governance_alignment": 0.8,
+        "execution_risk": 0.35
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["API coverage completeness", "Third-party API changes", "Enterprise security requirements"],
+        "invisible_value": "Integration pattern intelligence; software ecosystem mapping",
+        "friction_points": ["Keeping pace with API changes", "Edge case handling"],
+        "platform_evolution": "Already platform; could become software connectivity infrastructure"
+      },
+      "relationships": ["arkestro-2022", "pulumi-2020", "uniphore-2022"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "one-concern-2017",
+      "name": "One Concern",
+      "type": "company",
+      "status": "private",
+      "founded": "2017",
+      "core_function": "AI and ML-driven hazard modeling for natural disaster response and resilience",
+      "value_mechanism": "Risk quantification enables better decisions; life-saving intelligence",
+      "market_position": "niche",
+      "technology_layer": ["AI", "application"],
+      "sector_tags": ["climate", "government", "insurance"],
+      "archetype_match": "institution",
+      "memola_signals": {
+        "platform_potential": 0.7,
+        "compounding_capacity": 0.75,
+        "governance_alignment": 0.85,
+        "execution_risk": 0.45
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Government procurement cycles", "Model accuracy validation", "Data access for training"],
+        "invisible_value": "Proprietary hazard models; infrastructure vulnerability mapping",
+        "friction_points": ["Proving value before disasters occur", "Data sharing agreements"],
+        "platform_evolution": "Could become resilience infrastructure for cities and insurers"
+      },
+      "relationships": ["chaos-2025", "goodleap-2019"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "patreon-2020",
+      "name": "Patreon",
+      "type": "company",
+      "status": "private",
+      "founded": "2020",
+      "core_function": "Platform funding the creative class through fan support memberships",
+      "value_mechanism": "Creator monetization infrastructure; community building tools",
+      "market_position": "growth",
+      "technology_layer": ["application"],
+      "sector_tags": ["creator-economy", "media", "consumer"],
+      "archetype_match": "event",
+      "memola_signals": {
+        "platform_potential": 0.9,
+        "compounding_capacity": 0.8,
+        "governance_alignment": 0.7,
+        "execution_risk": 0.35
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Creator churn", "Platform fee pressure", "Competition from platform-native monetization"],
+        "invisible_value": "Creator economics data; fan engagement patterns; content value signals",
+        "friction_points": ["Payment processing costs", "Creator success variance"],
+        "platform_evolution": "Already platform; expanding into creator business infrastructure"
+      },
+      "relationships": ["inkitt-2021", "coursera-2011"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "pf-2021",
+      "name": "PF (SMB Lending Platform)",
+      "type": "company",
+      "status": "private",
+      "founded": "2021",
+      "core_function": "Platform enabling scalable SMB lending for community banks",
+      "value_mechanism": "Bank capability extension; SMB access to capital; lending efficiency",
+      "market_position": "emerging",
+      "technology_layer": ["application", "infrastructure"],
+      "sector_tags": ["fintech", "banking", "SMB"],
+      "archetype_match": "institution",
+      "memola_signals": {
+        "platform_potential": 0.8,
+        "compounding_capacity": 0.75,
+        "governance_alignment": 0.85,
+        "execution_risk": 0.4
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Bank adoption friction", "Credit risk in SMB segment", "Regulatory compliance"],
+        "invisible_value": "SMB credit intelligence; bank operational efficiency data",
+        "friction_points": ["Bank technology modernization pace", "Underwriting standardization"],
+        "platform_evolution": "Could become community bank infrastructure layer"
+      },
+      "relationships": ["brale-2022", "goodleap-2019", "juvo-2017"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "pulumi-2020",
+      "name": "Pulumi",
+      "type": "company",
+      "status": "private",
+      "founded": "2020",
+      "core_function": "Infrastructure as code platform using familiar programming languages",
+      "value_mechanism": "Developer productivity; infrastructure abstraction; policy enforcement",
+      "market_position": "growth",
+      "technology_layer": ["infrastructure"],
+      "sector_tags": ["devops", "cloud", "developer-tools"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.85,
+        "compounding_capacity": 0.8,
+        "governance_alignment": 0.75,
+        "execution_risk": 0.35
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Terraform ecosystem inertia", "Enterprise sales complexity", "Multi-cloud complexity"],
+        "invisible_value": "Infrastructure pattern library; deployment intelligence",
+        "friction_points": ["Developer habit change", "Enterprise procurement"],
+        "platform_evolution": "Could become infrastructure intelligence layer beyond provisioning"
+      },
+      "relationships": ["merge-2021", "vast-data-2023"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "retrieve-2018",
+      "name": "Retrieve",
+      "type": "company",
+      "status": "private",
+      "founded": "2018",
+      "core_function": "Virtual Teaching System with personalized pathways and competency assessment",
+      "value_mechanism": "Educational experience humanization at scale; outcome measurement",
+      "market_position": "niche",
+      "technology_layer": ["AI", "application"],
+      "sector_tags": ["edtech", "enterprise", "B2B"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.7,
+        "compounding_capacity": 0.65,
+        "governance_alignment": 0.7,
+        "execution_risk": 0.45
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Enterprise sales cycles", "Content creation burden", "Outcome attribution"],
+        "invisible_value": "Learning pathway effectiveness data; competency mapping intelligence",
+        "friction_points": ["Integration with existing LMS", "Change management"],
+        "platform_evolution": "Could become competency verification infrastructure"
+      },
+      "relationships": ["coursera-2011", "kira-2021", "workera-2021"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "sentons-2011",
+      "name": "Sentons",
+      "type": "company",
+      "status": "private",
+      "founded": "2011",
+      "core_function": "Human-machine interface solutions using dynamic acoustic techniques",
+      "value_mechanism": "Hardware differentiation; new interaction paradigms; sensor innovation",
+      "market_position": "niche",
+      "technology_layer": ["infrastructure"],
+      "sector_tags": ["hardware", "HMI", "consumer-electronics"],
+      "archetype_match": "artisanal",
+      "memola_signals": {
+        "platform_potential": 0.5,
+        "compounding_capacity": 0.6,
+        "governance_alignment": 0.65,
+        "execution_risk": 0.55
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["OEM dependency", "Design-in cycles", "Technology commoditization risk"],
+        "invisible_value": "Acoustic sensing IP; interaction pattern data",
+        "friction_points": ["Hardware adoption cycles", "Competition from established sensor players"],
+        "platform_evolution": "IP licensing model; could become standard in device interaction"
+      },
+      "relationships": ["tuya-2014", "mashgin-2022"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "transfix-2016",
+      "name": "Transfix",
+      "type": "company",
+      "status": "private",
+      "founded": "2016",
+      "core_function": "Freight marketplace connecting shippers to carrier network",
+      "value_mechanism": "Logistics friction reduction; carrier utilization optimization",
+      "market_position": "growth",
+      "technology_layer": ["application"],
+      "sector_tags": ["logistics", "marketplace", "B2B"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.8,
+        "compounding_capacity": 0.7,
+        "governance_alignment": 0.7,
+        "execution_risk": 0.4
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Carrier quality variance", "Market cyclicality", "Margin pressure"],
+        "invisible_value": "Freight pricing intelligence; route optimization data; carrier reliability scores",
+        "friction_points": ["Fragmented carrier base", "Shipper trust building"],
+        "platform_evolution": "Could become freight intelligence and financing platform"
+      },
+      "relationships": ["alfred-2014", "bliq-2022"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "tuya-2014",
+      "name": "Tuya Smart",
+      "type": "company",
+      "status": "public",
+      "stock_symbol": "NYSE: TUYA",
+      "founded": "2014",
+      "core_function": "Global IoT platform enabling smart products for brands and manufacturers",
+      "value_mechanism": "Smart product enablement infrastructure; AI + manufacturing closed loop",
+      "market_position": "growth",
+      "technology_layer": ["AI", "infrastructure", "application"],
+      "sector_tags": ["IoT", "hardware", "consumer"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.9,
+        "compounding_capacity": 0.85,
+        "governance_alignment": 0.7,
+        "execution_risk": 0.35
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Geopolitical risk", "Platform competition from big tech", "Security concerns"],
+        "invisible_value": "Device ecosystem data; manufacturing intelligence; consumer behavior patterns",
+        "friction_points": ["Trust concerns in Western markets", "Regulatory fragmentation"],
+        "platform_evolution": "Already platform; expanding ecosystem coverage"
+      },
+      "relationships": ["branch-2014", "sentons-2011", "mashgin-2022"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "uniphore-2022",
+      "name": "Uniphore",
+      "type": "company",
+      "status": "private",
+      "founded": "2022",
+      "core_function": "Business AI company with sovereign, composable AI Cloud for enterprise",
+      "value_mechanism": "Enterprise data transformation into intelligent agents; business outcome automation",
+      "market_position": "growth",
+      "technology_layer": ["AI", "infrastructure"],
+      "sector_tags": ["enterprise", "AI", "customer-experience"],
+      "archetype_match": "institution",
+      "memola_signals": {
+        "platform_potential": 0.85,
+        "compounding_capacity": 0.8,
+        "governance_alignment": 0.8,
+        "execution_risk": 0.4
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Enterprise AI adoption friction", "Proving ROI", "Competition from hyperscalers"],
+        "invisible_value": "Conversation intelligence; enterprise workflow patterns",
+        "friction_points": ["Integration complexity", "Data governance requirements"],
+        "platform_evolution": "Could become enterprise AI operating system"
+      },
+      "relationships": ["automation-anywhere-2020", "merge-2021", "enigma-2015"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "vast-data-2023",
+      "name": "VAST Data",
+      "type": "company",
+      "status": "private",
+      "founded": "2023",
+      "core_function": "Unified data management platform built for AI workloads",
+      "value_mechanism": "Data infrastructure simplification; AI-ready data architecture",
+      "market_position": "growth",
+      "technology_layer": ["infrastructure"],
+      "sector_tags": ["data", "infrastructure", "AI"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.85,
+        "compounding_capacity": 0.85,
+        "governance_alignment": 0.75,
+        "execution_risk": 0.35
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Enterprise migration complexity", "Competition from cloud providers", "Price pressure"],
+        "invisible_value": "Data architecture patterns for AI; performance optimization intelligence",
+        "friction_points": ["Existing infrastructure lock-in", "Enterprise sales cycles"],
+        "platform_evolution": "Could become foundational AI data layer"
+      },
+      "relationships": ["enigma-2015", "pulumi-2020", "world-labs-2024"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "veza-2025",
+      "name": "Veza",
+      "type": "company",
+      "status": "private",
+      "founded": "2025",
+      "core_function": "Multi-cloud identity security platform for authorization management at scale",
+      "value_mechanism": "Authorization visibility; access risk reduction; compliance automation",
+      "market_position": "emerging",
+      "technology_layer": ["infrastructure"],
+      "sector_tags": ["security", "enterprise", "identity"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.8,
+        "compounding_capacity": 0.75,
+        "governance_alignment": 0.85,
+        "execution_risk": 0.4
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Multi-cloud complexity", "Authorization sprawl visibility", "Integration with existing IAM"],
+        "invisible_value": "Authorization pattern intelligence; access risk scoring models",
+        "friction_points": ["Enterprise security tool fatigue", "Proving value pre-incident"],
+        "platform_evolution": "Could become authorization intelligence layer across clouds"
+      },
+      "relationships": ["chaos-2025", "pulumi-2020"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "workera-2021",
+      "name": "Workera",
+      "type": "company",
+      "status": "private",
+      "founded": "2021",
+      "core_function": "Precision upskilling platform with AI-driven skill assessment and mentorship",
+      "value_mechanism": "Skill gap identification and closure; measurable capability development",
+      "market_position": "emerging",
+      "technology_layer": ["AI", "application"],
+      "sector_tags": ["edtech", "enterprise", "AI"],
+      "archetype_match": "vertical",
+      "memola_signals": {
+        "platform_potential": 0.8,
+        "compounding_capacity": 0.75,
+        "governance_alignment": 0.75,
+        "execution_risk": 0.4
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Assessment accuracy", "Learning path effectiveness", "Enterprise adoption"],
+        "invisible_value": "Skill demand intelligence; learning effectiveness patterns",
+        "friction_points": ["Proving skill improvement ROI", "Content freshness for tech skills"],
+        "platform_evolution": "Could become enterprise skill operating system"
+      },
+      "relationships": ["coursera-2011", "kira-2021", "retrieve-2018", "automation-anywhere-2020"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    },
+    {
+      "id": "world-labs-2024",
+      "name": "World Labs",
+      "type": "company",
+      "status": "private",
+      "founded": "2024",
+      "core_function": "Spatial intelligence AI building Large World Models for 3D perception and generation",
+      "value_mechanism": "3D world understanding as foundation model capability",
+      "market_position": "emerging",
+      "technology_layer": ["AI", "infrastructure"],
+      "sector_tags": ["AI", "3D", "foundation-models"],
+      "archetype_match": "institution",
+      "memola_signals": {
+        "platform_potential": 0.9,
+        "compounding_capacity": 0.85,
+        "governance_alignment": 0.7,
+        "execution_risk": 0.5
+      },
+      "strategic_diagnosis": {
+        "core_problems": ["Compute requirements", "Training data acquisition", "Commercialization path"],
+        "invisible_value": "3D world understanding models; spatial reasoning capabilities",
+        "friction_points": ["Research to product gap", "Talent competition"],
+        "platform_evolution": "Could become foundational spatial AI infrastructure"
+      },
+      "relationships": ["vast-data-2023", "uniphore-2022"],
+      "learnings": [],
+      "last_updated": "2026-01-27"
+    }
+  ]
+}

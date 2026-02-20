@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2026-01-27",
+    "last_refined": "2026-01-27"
+  },
+  "sectors": {
+    "primary": [
+      "enterprise",
+      "consumer",
+      "fintech",
+      "edtech",
+      "climate",
+      "defense",
+      "infrastructure"
+    ],
+    "secondary": [
+      "AI",
+      "logistics",
+      "marketplace",
+      "developer-tools",
+      "IoT",
+      "security",
+      "media",
+      "creator-economy",
+      "gig-economy",
+      "identity",
+      "data",
+      "hardware"
+    ]
+  },
+  "technology_layers": {
+    "levels": ["protocol", "infrastructure", "application", "AI"],
+    "descriptions": {
+      "protocol": "Foundational protocols and standards",
+      "infrastructure": "Core infrastructure and platform layers",
+      "application": "End-user facing applications and tools",
+      "AI": "Machine learning and artificial intelligence capabilities"
+    }
+  },
+  "archetypes": {
+    "institution": {
+      "description": "Traditional institutions with high legitimacy requiring digital modernization",
+      "characteristics": ["High trust", "Low digital presence", "Change resistance"],
+      "memola_role": "Translator between tradition and modernity"
+    },
+    "artisanal": {
+      "description": "Quality-first brands requiring systematization without identity loss",
+      "characteristics": ["Real product quality", "Fragmented story", "Demand outpaces structure"],
+      "memola_role": "Systematize story while protecting brand"
+    },
+    "event": {
+      "description": "High-engagement episodic experiences requiring lifecycle extension",
+      "characteristics": ["Emotional engagement", "Seasonal revenue", "Community attachment"],
+      "memola_role": "Extend lifecycle and build media assets"
+    },
+    "vertical": {
+      "description": "Niche market aggregators with platform potential",
+      "characteristics": ["Fragmented market", "Information asymmetry", "Clear professional users"],
+      "memola_role": "Build directory/aggregator, centralize demand"
+    },
+    "hybrid": {
+      "description": "Combinations of multiple archetype characteristics",
+      "characteristics": ["Multiple value layers", "Complex positioning", "Higher optionality"],
+      "memola_role": "Custom structural design"
+    }
+  },
+  "market_positions": {
+    "stages": ["niche", "emerging", "growth", "mature", "declining"],
+    "definitions": {
+      "niche": "Focused segment, limited market but clear positioning",
+      "emerging": "New market creation or category definition phase",
+      "growth": "Proven model in scaling phase",
+      "mature": "Established market position, optimization focus",
+      "declining": "Market position eroding, pivot or exit needed"
+    }
+  },
+  "status_types": {
+    "company": ["private", "public", "acquired", "defunct"],
+    "investment": ["active", "exited", "written-off"]
+  },
+  "signal_categories": {
+    "platform_potential": {
+      "description": "Likelihood of becoming infrastructure vs. remaining service",
+      "indicators": ["Network effects", "Data accumulation", "Multi-sided dynamics", "Aggregation leverage"]
+    },
+    "compounding_capacity": {
+      "description": "Ability for value to accumulate over time",
+      "indicators": ["Data moat formation", "Learning loops", "Asset reusability", "Brand accumulation"]
+    },
+    "governance_alignment": {
+      "description": "Fit with MEMOLA governance requirements",
+      "indicators": ["Clear decision authority", "Defined scope", "Ethical alignment", "Exit clarity"]
+    },
+    "execution_risk": {
+      "description": "Risk factors in execution",
+      "indicators": ["Market timing", "Technical complexity", "Regulatory exposure", "Competition intensity"]
+    }
+  },
+  "relationship_types": [
+    "competitive",
+    "complementary",
+    "infrastructure_dependency",
+    "customer_supplier",
+    "ecosystem_adjacent",
+    "talent_overlap"
+  ]
+}
