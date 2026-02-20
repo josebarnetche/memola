@@ -454,42 +454,13 @@ MEMOLA work typically fits these recurring patterns:
 - Prioritize compounding value over immediate output
 - Maintain translation between MEMOLA logic and client reality
 - Treat every engagement as a first-principles problem
-- **Record learnings to `.agents/database/` for compounding**
+- **Document learnings for compounding value**
 - **Question whether MEMOLA applies before forcing it**
 - **Use agents for their specific functions — don't collapse roles**
 
 ---
 
-## 16. The Learning System
-
-MEMOLA includes an agentic learning framework in `.agents/`:
-
-```
-.agents/
-├── FRAMEWORK.md          # Architecture definition
-├── AGENT_OPINION.md      # Agent's perspective on doctrine
-├── database/
-│   ├── entities.json     # Analyzed entities
-│   ├── patterns.json     # Discovered patterns
-│   ├── relationships.json # Entity connections
-│   ├── learnings.json    # Extracted insights
-│   └── taxonomy.json     # Classification system
-├── agents/
-│   ├── ingestion.md      # Data intake protocols
-│   ├── diagnosis.md      # Analysis protocols
-│   ├── structure.md      # System design protocols
-│   └── compounding.md    # Value accumulation protocols
-├── logs/
-│   └── session-*.md      # Thinking session logs
-└── reports/
-    └── *.md              # Research reports
-```
-
-**Key insight**: MEMOLA learns from its own application. Every engagement that passes through the framework contributes to its pattern library.
-
----
-
-## 17. Bundled Resources
+## 16. Bundled Resources
 
 This skill includes the following reference documents:
 
@@ -511,11 +482,6 @@ This skill includes the following reference documents:
 - `agents/VIGIL.md` — Revenue intelligence (reports to MEMOR)
 - `agents/NEXO.md` — Operations & delivery (reports to MEMOR)
 - `agents/PULSO.md` — Market intelligence (reports to MEMOR)
-
-**Learning System:**
-- `.agents/database/` — Living pattern database
-- `.agents/logs/` — Session history
-- `.agents/reports/` — Analysis outputs
 
 **Sub-Skills:**
 - `skills/MEMOLA-Creative/` — Creative industry strategy
