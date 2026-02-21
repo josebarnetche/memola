@@ -86,7 +86,6 @@ npx skills add https://github.com/josebarnetche/memola --skill MEMOLA
 - **Diferencial:** Único fundador operando desde el interior (no Buenos Aires)
 - **Background:** AI + industrias tradicionales, full-stack (producción, código, estrategia, música)
 - **Red:** Conoce 4000+ personas locales, trabajó con 100+
-- **Familia:** Cuarta generación vasco-argentina, familia fundadora Sociedad Rural (1900)
 
 ### Memola Medios S.A.S.
 - **No es:** Una agencia de marketing con retainers inflados
@@ -214,7 +213,6 @@ Para clientes listos para invertir en adquisición paga.
 **Presupuesto publicitario recomendado:** AR$ 1.500.000+/mes (paga cliente directo a Meta)
 
 **Delivery:** 1 semana setup
-**Referencia:** Propuesta Mi Ajuar
 
 ### 5.2 Email Marketing Campaigns
 
@@ -275,7 +273,6 @@ Servicios de producción de alto valor.
 | Nacional | AR$ 412.000+ + IVA |
 
 **Delivery:** 2-4 semanas por video
-**Referencia:** Propuesta Agronorte
 
 ### 6.3 Cobertura de Eventos
 
@@ -471,9 +468,6 @@ Pago: 30% seña / 70% al finalizar
 
 Agendar: https://tidycal.com/memola/consultoria
 
-O puede escribirme directo:
-WhatsApp: +54 9 3773 418130
-
 Saludos,
 José Barnetche
 Memola Medios S.A.S.
@@ -664,12 +658,12 @@ José
 - Gestionar listas de contactos
 
 ### Prospect Tracker
-- `C:\Users\Usuario\clawd\prospect-tracker.json`
+- `./prospect-tracker.json` (local file, not in repo)
 - Leer/escribir estado de prospectos
 - Trackear historial de emails
 
 ### HEARTBEAT
-- `C:\Users\Usuario\clawd\HEARTBEAT.md`
+- `./HEARTBEAT.md` (local file, not in repo)
 - Referenciar clientes activos para social proof
 - Verificar pipeline actual
 

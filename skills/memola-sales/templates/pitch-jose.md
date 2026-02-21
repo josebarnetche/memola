@@ -8,7 +8,7 @@
 
 ## La Versión Media (2 minutos)
 
-"Soy José Barnetche, de Mercedes, Corrientes. Cuarta generación de una familia que ayudó a fundar la Sociedad Rural en 1900.
+"Soy José Barnetche, de Mercedes, Corrientes.
 
 Hace tres años fundé Memola Medios porque vi un problema: las empresas del NEA no tienen acceso a soluciones digitales de calidad. Las agencias de Buenos Aires no entienden el territorio, cobran caro, y responden lento.
 
@@ -27,14 +27,13 @@ Lo que nos hace diferentes: somos de acá. Conocemos los tiempos, las relaciones
 ## Puntos de Prueba Clave
 
 ### Track Record (Proyectos Reales)
-- **Mi Ajuar:** Setup Meta Ads completo — AR$ 1.210.000 IVA incluido
-- **Agronorte:** Video tutorial técnico — AR$ 2.950.000 + IVA
-- **Platería Lossada:** Rebranding + estrategia digital
-- **Landing/Email project:** 4 landings + 8 templates + 16 diseños — AR$ 4.250.000 + IVA
+- Setup Meta Ads completo — AR$ 1.210.000 IVA incluido
+- Video tutorial técnico — AR$ 2.950.000 + IVA
+- Rebranding + estrategia digital
+- Landing/Email project: 4 landings + 8 templates + 16 diseños — AR$ 4.250.000 + IVA
 
 ### Posicionamiento Único
 - **Único desde el interior:** No Buenos Aires, no mentalidad CABA
-- **Familia fundadora:** Barnetche-Aguerre, 1900 Sociedad Rural
 - **Full-stack:** Código + diseño + estrategia + producción
 - **AI-native:** Integramos IA en todo lo que hacemos
 - **Por proyecto:** Precios claros, entregables definidos
@@ -60,7 +59,7 @@ Lo que nos hace diferentes: somos de acá. Conocemos los tiempos, las relaciones
 ## Respuestas a Objeciones
 
 ### "Sos muy joven"
-"Tengo 27 años y llevo 8 trabajando en digital. Conozco las herramientas mejor que alguien que aprendió marketing en los 90. Y mi familia está en el territorio hace cuatro generaciones."
+"Tengo 27 años y llevo 8 trabajando en digital. Conozco las herramientas mejor que alguien que aprendió marketing en los 90."
 
 ### "Prefiero una agencia de Buenos Aires"
 "Entiendo. Pregunta: ¿cuándo necesite algo urgente un viernes a las 6pm, quién le responde más rápido — una agencia a 1000km o alguien que vive a 20 minutos? Además, ellos no conocen el mercado NEA como nosotros."
@@ -109,9 +108,7 @@ Lo que nos hace diferentes: somos de acá. Conocemos los tiempos, las relaciones
 "Si le interesa charlar, puede agendar directamente acá:
 https://tidycal.com/memola/consultoria
 
-15 minutos para ver si hay fit. Prefiero decirle que no somos la opción correcta antes de empezar algo que no va a funcionar.
-
-WhatsApp: +54 9 3773 418130"
+15 minutos para ver si hay fit. Prefiero decirle que no somos la opción correcta antes de empezar algo que no va a funcionar."
 
 ---
 

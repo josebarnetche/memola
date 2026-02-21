@@ -124,7 +124,4 @@ https://tidycal.com/memola/consultoria
 **José Barnetche**
 Memola Medios S.A.S.
 agencia@memola.media
-WhatsApp: +54 9 3773 418130
 Mercedes, Corrientes
-
-*Referencia: Propuesta Mi Ajuar (Meta Ads), Propuesta Landing/Email*

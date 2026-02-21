@@ -108,7 +108,6 @@ Saludos desde Mercedes,
 José Barnetche
 Memola Medios S.A.S.
 agencia@memola.media
-WhatsApp: +54 9 3773 418130
 """
 
     tags = ["Discovery", prospect['city'], prospect['sector']]
@@ -142,9 +141,6 @@ Pago: 30% seña / 70% al finalizar
 ¿Le interesa una consultoría de 15 minutos?
 
 Agendar: https://tidycal.com/memola/consultoria
-
-O puede escribirme directo:
-WhatsApp: +54 9 3773 418130
 
 Saludos,
 José Barnetche
@@ -221,7 +217,6 @@ Saludos,
 José Barnetche
 Memola Medios S.A.S.
 agencia@memola.media
-WhatsApp: +54 9 3773 418130
 """
 
     tags = ["Proposal", prospect.get('level', 'General')]
@@ -241,7 +236,6 @@ def send_custom_email(to_email: str, subject: str, body: str, campaign: str = "C
 José Barnetche
 Memola Medios S.A.S.
 agencia@memola.media
-WhatsApp: +54 9 3773 418130
 Mercedes, Corrientes — Argentina
 
 Agendar consultoría: https://tidycal.com/memola/consultoria

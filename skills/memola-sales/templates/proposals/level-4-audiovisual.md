@@ -48,8 +48,6 @@ Delivery: 3-5 semanas
 
 Delivery: 2-4 semanas por video
 
-*Referencia: Propuesta Agronorte*
-
 ---
 
 ### Cobertura de Eventos
@@ -146,7 +144,4 @@ https://tidycal.com/memola/consultoria
 **José Barnetche**
 Memola Medios S.A.S.
 agencia@memola.media
-WhatsApp: +54 9 3773 418130
 Mercedes, Corrientes
-
-*Referencia: Propuesta Agronorte (Video Tutoriales), Portfolio (Institucionales)*
